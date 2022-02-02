@@ -1,0 +1,6 @@
+function stylesheet(token, useActualHostSelector, useNativeDirPseudoclass) {
+  var shadowSelector = token ? ("[" + token + "]") : "";
+  var hostSelector = token ? ("[" + token + "-host]") : "";
+  return [(useActualHostSelector ? ":host {display: block;}" : [hostSelector, " {display: block;}"].join('')), (useActualHostSelector ? ":host.slds-has-error {--slds-c-input-color-border:#ea001e;--slds-c-input-shadow:#ea001e 0 0 0 1px inset;--slds-c-input-color-background:var(--slds-c-input-color-background, var(--sds-c-input-color-background, white));--slds-c-input-text-color:var(--slds-c-input-text-color, var(--sds-c-input-text-color), #74747);}" : [hostSelector, ".slds-has-error {--slds-c-input-color-border:#ea001e;--slds-c-input-shadow:#ea001e 0 0 0 1px inset;--slds-c-input-color-background:var(--slds-c-input-color-background, var(--sds-c-input-color-background, white));--slds-c-input-text-color:var(--slds-c-input-text-color, var(--sds-c-input-text-color), #74747);}"].join(''))].join('');
+}
+export default [stylesheet];
