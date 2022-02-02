@@ -1,4 +1,4 @@
-import { normalizeKeyValue } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_2-alpha/latest/lightning_utilsPrivate.js';
+import { normalizeKeyValue } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_2-alpha/latest/lightning_utilsPrivate.js';
 export function handleKeyDownOnCalendar(event, date, calendarInterface) {
   const tdElement = event.target;
   const keyValue = normalizeKeyValue(event.key);

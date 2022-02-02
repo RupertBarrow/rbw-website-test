@@ -41,7 +41,7 @@ async function fetchIconTemplate(dir, category) {
           // eslint-disable-next-line @lwc/lwc/no-async-await
           const {
             default: Lib
-          } = await import('/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesUtilityRtl%2Fv%2F1_14_2-alpha/latest/lightning_iconSvgTemplatesUtilityRtl.js');
+          } = await import('/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesUtilityRtl/v/1_14_2-alpha/latest/lightning_iconSvgTemplatesUtilityRtl.js');
           return Lib;
         }
 
@@ -50,7 +50,7 @@ async function fetchIconTemplate(dir, category) {
           // eslint-disable-next-line @lwc/lwc/no-async-await
           const {
             default: Lib
-          } = await import('/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesActionRtl%2Fv%2F1_14_2-alpha/latest/lightning_iconSvgTemplatesActionRtl.js');
+          } = await import('/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesActionRtl/v/1_14_2-alpha/latest/lightning_iconSvgTemplatesActionRtl.js');
           return Lib;
         }
 
@@ -59,7 +59,7 @@ async function fetchIconTemplate(dir, category) {
           // eslint-disable-next-line @lwc/lwc/no-async-await
           const {
             default: Lib
-          } = await import('/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesStandardRtl%2Fv%2F1_14_2-alpha/latest/lightning_iconSvgTemplatesStandardRtl.js');
+          } = await import('/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesStandardRtl/v/1_14_2-alpha/latest/lightning_iconSvgTemplatesStandardRtl.js');
           return Lib;
         }
 
@@ -68,7 +68,7 @@ async function fetchIconTemplate(dir, category) {
           // eslint-disable-next-line @lwc/lwc/no-async-await
           const {
             default: Lib
-          } = await import('/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesDoctypeRtl%2Fv%2F1_14_2-alpha/latest/lightning_iconSvgTemplatesDoctypeRtl.js');
+          } = await import('/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesDoctypeRtl/v/1_14_2-alpha/latest/lightning_iconSvgTemplatesDoctypeRtl.js');
           return Lib;
         }
 
@@ -77,7 +77,7 @@ async function fetchIconTemplate(dir, category) {
           // eslint-disable-next-line @lwc/lwc/no-async-await
           const {
             default: Lib
-          } = await import('/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesCustomRtl%2Fv%2F1_14_2-alpha/latest/lightning_iconSvgTemplatesCustomRtl.js');
+          } = await import('/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesCustomRtl/v/1_14_2-alpha/latest/lightning_iconSvgTemplatesCustomRtl.js');
           return Lib;
         }
 
@@ -91,7 +91,7 @@ async function fetchIconTemplate(dir, category) {
           // eslint-disable-next-line @lwc/lwc/no-async-await
           const {
             default: Lib
-          } = await import('/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesUtility%2Fv%2F1_14_2-alpha/latest/lightning_iconSvgTemplatesUtility.js');
+          } = await import('/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesUtility/v/1_14_2-alpha/latest/lightning_iconSvgTemplatesUtility.js');
           return Lib;
         }
 
@@ -100,7 +100,7 @@ async function fetchIconTemplate(dir, category) {
           // eslint-disable-next-line @lwc/lwc/no-async-await
           const {
             default: Lib
-          } = await import('/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesAction%2Fv%2F1_14_2-alpha/latest/lightning_iconSvgTemplatesAction.js');
+          } = await import('/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesAction/v/1_14_2-alpha/latest/lightning_iconSvgTemplatesAction.js');
           return Lib;
         }
 
@@ -109,7 +109,7 @@ async function fetchIconTemplate(dir, category) {
           // eslint-disable-next-line @lwc/lwc/no-async-await
           const {
             default: Lib
-          } = await import('/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesStandard%2Fv%2F1_14_2-alpha/latest/lightning_iconSvgTemplatesStandard.js');
+          } = await import('/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesStandard/v/1_14_2-alpha/latest/lightning_iconSvgTemplatesStandard.js');
           return Lib;
         }
 
@@ -118,7 +118,7 @@ async function fetchIconTemplate(dir, category) {
           // eslint-disable-next-line @lwc/lwc/no-async-await
           const {
             default: Lib
-          } = await import('/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesDoctype%2Fv%2F1_14_2-alpha/latest/lightning_iconSvgTemplatesDoctype.js');
+          } = await import('/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesDoctype/v/1_14_2-alpha/latest/lightning_iconSvgTemplatesDoctype.js');
           return Lib;
         }
 
@@ -127,7 +127,7 @@ async function fetchIconTemplate(dir, category) {
           // eslint-disable-next-line @lwc/lwc/no-async-await
           const {
             default: Lib
-          } = await import('/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesCustom%2Fv%2F1_14_2-alpha/latest/lightning_iconSvgTemplatesCustom.js');
+          } = await import('/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesCustom/v/1_14_2-alpha/latest/lightning_iconSvgTemplatesCustom.js');
           return Lib;
         }
 

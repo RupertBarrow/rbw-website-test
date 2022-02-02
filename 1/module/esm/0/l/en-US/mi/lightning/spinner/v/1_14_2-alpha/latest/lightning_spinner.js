@@ -1,7 +1,7 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_3/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Fspinner%23spinner.html%2Fv%2F1_14_2-alpha/latest/lightning_spinner_spinner_html.js";
-import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_2-alpha/latest/lightning_utils.js';
-import { normalizeString as normalize } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_2-alpha/latest/lightning_utilsPrivate.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_3/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/spinner#spinner.html/v/1_14_2-alpha/latest/lightning_spinner_spinner_html.js";
+import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_2-alpha/latest/lightning_utils.js';
+import { normalizeString as normalize } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_2-alpha/latest/lightning_utilsPrivate.js';
 /**
  * Displays an animated spinner.
  */

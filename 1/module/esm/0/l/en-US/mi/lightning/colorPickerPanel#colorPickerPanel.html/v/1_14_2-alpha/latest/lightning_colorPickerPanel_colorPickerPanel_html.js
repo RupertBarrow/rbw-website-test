@@ -1,9 +1,9 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerPanel%23colorPickerPanel.css%2Fv%2F1_14_2-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/colorPickerPanel#colorPickerPanel.css/v/1_14_2-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerPanel%23colorPickerPanel.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_2-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/colorPickerPanel#colorPickerPanel.scoped.cssscoped=true/v/1_14_2-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_scoped_css?scoped=true.js";
 
-import _lightningColorPickerCustom from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerCustom%2Fv%2F1_14_2-alpha/latest/lightning_colorPickerCustom.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_3/latest/lwc.js";
+import _lightningColorPickerCustom from "/1/module/esm/0/l/en-US/mi/lightning/colorPickerCustom/v/1_14_2-alpha/latest/lightning_colorPickerCustom.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_3/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {gid: api_scoped_id, b: api_bind, c: api_custom_element, h: api_element, d: api_dynamic_text, t: api_text} = $api;
   const {_m0, _m1, _m2, _m3} = $ctx;

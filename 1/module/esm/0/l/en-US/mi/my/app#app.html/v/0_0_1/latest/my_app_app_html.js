@@ -1,9 +1,9 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/my%2Fapp%23app.css%2Fv%2F0_0_1/latest/my_app_app_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/my/app#app.css/v/0_0_1/latest/my_app_app_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/my%2Fapp%23app.scoped.css%3Fscoped%3Dtrue%2Fv%2F0_0_1/latest/my_app_app_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/my/app#app.scoped.cssscoped=true/v/0_0_1/latest/my_app_app_scoped_css?scoped=true.js";
 
-import _myFormulaire from "/1/module/esm/0/l/en-US/mi/my%2Fformulaire%2Fv%2F0_0_1/latest/my_formulaire.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_3/latest/lwc.js";
+import _myFormulaire from "/1/module/esm/0/l/en-US/mi/my/formulaire/v/0_0_1/latest/my_formulaire.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_3/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {c: api_custom_element, h: api_element} = $api;
   return [api_element("div", {

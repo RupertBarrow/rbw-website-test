@@ -1,4 +1,4 @@
-import { swapTemplate, swapStyle, swapComponent } from '/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_3/latest/lwc.js';
+import { swapTemplate, swapStyle, swapComponent } from '/1/module/esm/0/l/en-US/mi/lwc/v/2_7_3/latest/lwc.js';
 
 export function updateStaleModule({ oldModule, newModule, specifier }) {
     if (specifier.endsWith('html') && newModule.default) {

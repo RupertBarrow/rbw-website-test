@@ -1,4 +1,4 @@
-import { normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_2-alpha/latest/lightning_utilsPrivate.js';
+import { normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_2-alpha/latest/lightning_utilsPrivate.js';
 export const VARIANT = {
   STANDARD: 'standard',
   LABEL_HIDDEN: 'label-hidden',

@@ -1,5 +1,5 @@
-import { normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_2-alpha/latest/lightning_utilsPrivate.js';
-import { WindowManager } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23util%2Fv%2F1_14_2-alpha/latest/lightning_positionLibrary_util.js'; // TODO: Remove, not currently in use.
+import { normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_2-alpha/latest/lightning_utilsPrivate.js';
+import { WindowManager } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#util/v/1_14_2-alpha/latest/lightning_positionLibrary_util.js'; // TODO: Remove, not currently in use.
 
 const ALIGN_REGEX = /^(left|right|center)\s(top|bottom|center)$/;
 export const Direction = {

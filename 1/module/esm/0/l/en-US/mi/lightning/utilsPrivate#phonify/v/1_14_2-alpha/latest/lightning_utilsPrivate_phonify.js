@@ -1,4 +1,4 @@
-import locale from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Flocale%2Fv%2F1_14_2-alpha/latest/@salesforce_i18n_locale.js';
+import locale from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/locale/v/1_14_2-alpha/latest/@salesforce_i18n_locale.js';
 const NA_PHONE_NUMBER = '($1) $2-$3';
 const IS_TEN_DIGITS = /^\d{10}$/;
 const TEN_TO_NA = /(\d{3})(\d{3})(\d{4})/;

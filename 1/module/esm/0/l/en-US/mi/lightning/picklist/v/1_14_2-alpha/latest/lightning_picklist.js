@@ -1,10 +1,10 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_3/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Fpicklist%23picklist.html%2Fv%2F1_14_2-alpha/latest/lightning_picklist_picklist_html.js";
-import labelNoneLabel from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningPicklist.noneLabel%2Fv%2F1_14_2-alpha/latest/@salesforce_label_LightningPicklist_noneLabel.js';
-import labelAvailable from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningPicklist.available%2Fv%2F1_14_2-alpha/latest/@salesforce_label_LightningPicklist_available.js';
-import labelChosen from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningPicklist.chosen%2Fv%2F1_14_2-alpha/latest/@salesforce_label_LightningPicklist_chosen.js';
-import { normalizeBoolean, arraysEqual } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_2-alpha/latest/lightning_utilsPrivate.js';
-import formFactor from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fclient%2FformFactor%2Fv%2F1_14_2-alpha/latest/@salesforce_client_formFactor.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_3/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/picklist#picklist.html/v/1_14_2-alpha/latest/lightning_picklist_picklist_html.js";
+import labelNoneLabel from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningPicklist.noneLabel/v/1_14_2-alpha/latest/@salesforce_label_LightningPicklist_noneLabel.js';
+import labelAvailable from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningPicklist.available/v/1_14_2-alpha/latest/@salesforce_label_LightningPicklist_available.js';
+import labelChosen from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningPicklist.chosen/v/1_14_2-alpha/latest/@salesforce_label_LightningPicklist_chosen.js';
+import { normalizeBoolean, arraysEqual } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_2-alpha/latest/lightning_utilsPrivate.js';
+import formFactor from '/1/module/esm/0/l/en-US/mi/@salesforce/client/formFactor/v/1_14_2-alpha/latest/@salesforce_client_formFactor.js';
 const i18n = {
   noneLabel: labelNoneLabel,
   available: labelAvailable,

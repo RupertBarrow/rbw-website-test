@@ -1,7 +1,7 @@
-import { registerDecorators as _registerDecorators } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_3/latest/lwc.js";
-import { ElementProxy } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23elementProxy%2Fv%2F1_14_2-alpha/latest/lightning_positionLibrary_elementProxy.js';
-import { timeout, WindowManager, POSITION_ATTR_NAME } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23util%2Fv%2F1_14_2-alpha/latest/lightning_positionLibrary_util.js';
-import { assert } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_2-alpha/latest/lightning_utilsPrivate.js';
+import { registerDecorators as _registerDecorators } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_3/latest/lwc.js";
+import { ElementProxy } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#elementProxy/v/1_14_2-alpha/latest/lightning_positionLibrary_elementProxy.js';
+import { timeout, WindowManager, POSITION_ATTR_NAME } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#util/v/1_14_2-alpha/latest/lightning_positionLibrary_util.js';
+import { assert } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_2-alpha/latest/lightning_utilsPrivate.js';
 
 class ProxyCache {
   constructor() {

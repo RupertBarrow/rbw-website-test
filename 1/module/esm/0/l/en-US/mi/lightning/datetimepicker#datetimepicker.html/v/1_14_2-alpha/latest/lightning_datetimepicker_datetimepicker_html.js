@@ -1,11 +1,11 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fdatetimepicker%23datetimepicker.css%2Fv%2F1_14_2-alpha/latest/lightning_datetimepicker_datetimepicker_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/datetimepicker#datetimepicker.css/v/1_14_2-alpha/latest/lightning_datetimepicker_datetimepicker_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fdatetimepicker%23datetimepicker.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_2-alpha/latest/lightning_datetimepicker_datetimepicker_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/datetimepicker#datetimepicker.scoped.cssscoped=true/v/1_14_2-alpha/latest/lightning_datetimepicker_datetimepicker_scoped_css?scoped=true.js";
 
-import _lightningHelptext from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext%2Fv%2F1_14_2-alpha/latest/lightning_helptext.js";
-import _lightningDatepicker from "/1/module/esm/0/l/en-US/mi/lightning%2Fdatepicker%2Fv%2F1_14_2-alpha/latest/lightning_datepicker.js";
-import _lightningTimepicker from "/1/module/esm/0/l/en-US/mi/lightning%2Ftimepicker%2Fv%2F1_14_2-alpha/latest/lightning_timepicker.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_3/latest/lwc.js";
+import _lightningHelptext from "/1/module/esm/0/l/en-US/mi/lightning/helptext/v/1_14_2-alpha/latest/lightning_helptext.js";
+import _lightningDatepicker from "/1/module/esm/0/l/en-US/mi/lightning/datepicker/v/1_14_2-alpha/latest/lightning_datepicker.js";
+import _lightningTimepicker from "/1/module/esm/0/l/en-US/mi/lightning/timepicker/v/1_14_2-alpha/latest/lightning_timepicker.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_3/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {d: api_dynamic_text, t: api_text, h: api_element, c: api_custom_element, b: api_bind, gid: api_scoped_id} = $api;
   const {_m0, _m1, _m2, _m3, _m4, _m5} = $ctx;

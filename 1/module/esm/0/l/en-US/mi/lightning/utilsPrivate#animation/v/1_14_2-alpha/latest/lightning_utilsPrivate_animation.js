@@ -1,4 +1,4 @@
-import { isIE11 } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%23browser%2Fv%2F1_14_2-alpha/latest/lightning_utilsPrivate_browser.js';
+import { isIE11 } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate#browser/v/1_14_2-alpha/latest/lightning_utilsPrivate_browser.js';
 /**
  * Does the browser display animation.
  * Always returns false for IE11 due to performance.
