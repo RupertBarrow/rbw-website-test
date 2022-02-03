@@ -23,3 +23,5 @@ const LOCALDATA = {
     }
   ]
 };
+
+console.log('LOCALDATA = ', LOCALDATA);
