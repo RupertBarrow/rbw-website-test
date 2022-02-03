@@ -1,4 +1,4 @@
-export default const LOCALDATA = {
+const window.LOCALDATA = {
   "tracks": [
     {
       "path": "./music/OpenOceeans.mp3",
