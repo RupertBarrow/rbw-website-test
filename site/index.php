@@ -1,1 +1,8 @@
-<?php include_once('/home.html'); ?>
+<?php 
+
+echo __FILE__
+echo ROOT
+
+include_once('/site/home.html');
+
+?>
