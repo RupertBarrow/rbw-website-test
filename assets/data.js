@@ -1,4 +1,4 @@
-const LOCALDATA = {
+export default const LOCALDATA = {
   "tracks": [
     {
       "path": "./music/OpenOceeans.mp3",
@@ -23,5 +23,3 @@ const LOCALDATA = {
     }
   ]
 };
-
-exports.LOCALDATA = LOCALDATA 
