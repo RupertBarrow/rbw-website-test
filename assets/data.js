@@ -1,4 +1,4 @@
-const window.LOCALDATA = {
+window.LOCALDATA = {
   "tracks": [
     {
       "path": "./music/OpenOceeans.mp3",
