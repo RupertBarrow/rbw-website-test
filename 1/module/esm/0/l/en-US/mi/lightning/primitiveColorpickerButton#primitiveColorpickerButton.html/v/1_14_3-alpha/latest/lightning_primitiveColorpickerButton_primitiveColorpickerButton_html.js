@@ -1,10 +1,10 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveColorpickerButton%23primitiveColorpickerButton.css%2Fv%2F1_14_3-alpha/latest/lightning_primitiveColorpickerButton_primitiveColorpickerButton_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/primitiveColorpickerButton#primitiveColorpickerButton.css/v/1_14_3-alpha/latest/lightning_primitiveColorpickerButton_primitiveColorpickerButton_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveColorpickerButton%23primitiveColorpickerButton.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_primitiveColorpickerButton_primitiveColorpickerButton_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/primitiveColorpickerButton#primitiveColorpickerButton.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_primitiveColorpickerButton_primitiveColorpickerButton_scoped_css?scoped=true.js";
 
-import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIcon%2Fv%2F1_14_3-alpha/latest/lightning_primitiveIcon.js";
-import _lightningColorPickerPanel from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerPanel%2Fv%2F1_14_3-alpha/latest/lightning_colorPickerPanel.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon/v/1_14_3-alpha/latest/lightning_primitiveIcon.js";
+import _lightningColorPickerPanel from "/1/module/esm/0/l/en-US/mi/lightning/colorPickerPanel/v/1_14_3-alpha/latest/lightning_colorPickerPanel.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {b: api_bind, d: api_dynamic_text, t: api_text, h: api_element, c: api_custom_element} = $api;
   const {_m0, _m1} = $ctx;

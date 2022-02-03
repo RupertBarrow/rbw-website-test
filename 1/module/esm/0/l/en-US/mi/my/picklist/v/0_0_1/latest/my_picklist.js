@@ -1,5 +1,5 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/my%2Fpicklist%23picklist.html%2Fv%2F0_0_1/latest/my_picklist_picklist_html.js";
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/my/picklist#picklist.html/v/0_0_1/latest/my_picklist_picklist_html.js";
 
 class SelectComponent extends LightningElement {
   constructor(...args) {

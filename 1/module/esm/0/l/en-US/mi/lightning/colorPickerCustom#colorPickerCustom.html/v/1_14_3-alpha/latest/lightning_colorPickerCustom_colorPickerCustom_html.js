@@ -1,8 +1,8 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerCustom%23colorPickerCustom.css%2Fv%2F1_14_3-alpha/latest/lightning_colorPickerCustom_colorPickerCustom_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/colorPickerCustom#colorPickerCustom.css/v/1_14_3-alpha/latest/lightning_colorPickerCustom_colorPickerCustom_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerCustom%23colorPickerCustom.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_colorPickerCustom_colorPickerCustom_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/colorPickerCustom#colorPickerCustom.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_colorPickerCustom_colorPickerCustom_scoped_css?scoped=true.js";
 
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {gid: api_scoped_id, d: api_dynamic_text, t: api_text, h: api_element, b: api_bind} = $api;
   const {_m0, _m1, _m2, _m3, _m4, _m5, _m6, _m7, _m8, _m9} = $ctx;

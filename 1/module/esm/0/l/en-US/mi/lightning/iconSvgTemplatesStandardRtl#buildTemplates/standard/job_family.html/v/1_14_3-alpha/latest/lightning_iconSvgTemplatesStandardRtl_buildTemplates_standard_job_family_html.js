@@ -1,8 +1,8 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesStandardRtl%23buildTemplates%2Fstandard%2Fjob_family.css%2Fv%2F1_14_3-alpha/latest/lightning_iconSvgTemplatesStandardRtl_buildTemplates_standard_job_family_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesStandardRtl#buildTemplates/standard/job_family.css/v/1_14_3-alpha/latest/lightning_iconSvgTemplatesStandardRtl_buildTemplates_standard_job_family_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesStandardRtl%23buildTemplates%2Fstandard%2Fjob_family.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_iconSvgTemplatesStandardRtl_buildTemplates_standard_job_family_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesStandardRtl#buildTemplates/standard/job_family.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_iconSvgTemplatesStandardRtl_buildTemplates_standard_job_family_scoped_css?scoped=true.js";
 
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {h: api_element} = $api;
   return [api_element("svg", {

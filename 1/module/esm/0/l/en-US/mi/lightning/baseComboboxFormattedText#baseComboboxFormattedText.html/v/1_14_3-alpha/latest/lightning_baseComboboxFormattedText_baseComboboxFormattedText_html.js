@@ -1,8 +1,8 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxFormattedText%23baseComboboxFormattedText.css%2Fv%2F1_14_3-alpha/latest/lightning_baseComboboxFormattedText_baseComboboxFormattedText_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/baseComboboxFormattedText#baseComboboxFormattedText.css/v/1_14_3-alpha/latest/lightning_baseComboboxFormattedText_baseComboboxFormattedText_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxFormattedText%23baseComboboxFormattedText.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_baseComboboxFormattedText_baseComboboxFormattedText_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/baseComboboxFormattedText#baseComboboxFormattedText.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_baseComboboxFormattedText_baseComboboxFormattedText_scoped_css?scoped=true.js";
 
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {k: api_key, d: api_dynamic_text, t: api_text, h: api_element, i: api_iterator, f: api_flatten} = $api;
   return api_flatten([$cmp.hasParts ? api_iterator($cmp.text, function (item) {

@@ -1,4 +1,4 @@
-import { urlRegexString, newLineRegexString, emailRegexString, createHttpHref, createEmailHref } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%23linkUtils%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate_linkUtils.js';
+import { urlRegexString, newLineRegexString, emailRegexString, createHttpHref, createEmailHref } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate#linkUtils/v/1_14_3-alpha/latest/lightning_utilsPrivate_linkUtils.js';
 /*
  * Regex was taken from aura lib and refactored
  */

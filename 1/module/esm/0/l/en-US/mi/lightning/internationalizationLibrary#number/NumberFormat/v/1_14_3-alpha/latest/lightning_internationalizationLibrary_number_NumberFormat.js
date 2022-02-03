@@ -1,5 +1,5 @@
-import { numberFormatFallback } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%23number%2FnumberFormatFallback%2Fv%2F1_14_3-alpha/latest/lightning_internationalizationLibrary_number_numberFormatFallback.js';
-import { normalizeOptions, exceedsSafeLength, getFromCache } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%23number%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_internationalizationLibrary_number_utils.js';
+import { numberFormatFallback } from '/1/module/esm/0/l/en-US/mi/lightning/internationalizationLibrary#number/numberFormatFallback/v/1_14_3-alpha/latest/lightning_internationalizationLibrary_number_numberFormatFallback.js';
+import { normalizeOptions, exceedsSafeLength, getFromCache } from '/1/module/esm/0/l/en-US/mi/lightning/internationalizationLibrary#number/utils/v/1_14_3-alpha/latest/lightning_internationalizationLibrary_number_utils.js';
 export function numberFormat(options) {
   const normalizedOpts = Object.assign({}, normalizeOptions(options));
 

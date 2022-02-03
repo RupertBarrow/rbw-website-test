@@ -1,9 +1,9 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcard%23card.css%2Fv%2F1_14_3-alpha/latest/lightning_card_card_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/card#card.css/v/1_14_3-alpha/latest/lightning_card_card_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcard%23card.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_card_card_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/card#card.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_card_card_scoped_css?scoped=true.js";
 
-import _lightningIcon from "/1/module/esm/0/l/en-US/mi/lightning%2Ficon%2Fv%2F1_14_3-alpha/latest/lightning_icon.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import _lightningIcon from "/1/module/esm/0/l/en-US/mi/lightning/icon/v/1_14_3-alpha/latest/lightning_icon.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {c: api_custom_element, h: api_element, d: api_dynamic_text, t: api_text, s: api_slot} = $api;
   return [api_element("article", {

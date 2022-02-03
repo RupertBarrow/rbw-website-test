@@ -1,7 +1,7 @@
 // TODO: This is a temporal workaround until https://github.com/salesforce/lwc/pull/2083 is sorted
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore
-import { createElement } from '/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js';
+import { createElement } from '/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js';
 
 function initializeWebComponent(elementName, Ctor) {
   return createElement(elementName, {

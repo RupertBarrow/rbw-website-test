@@ -1,8 +1,8 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Ficon%23icon.html%2Fv%2F1_14_3-alpha/latest/lightning_icon_icon_html.js";
-import { classListMutation, normalizeString, isIE11 } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
-import { computeSldsClass, getCategory, isValidName } from '/1/module/esm/0/l/en-US/mi/lightning%2FiconUtils%2Fv%2F1_14_3-alpha/latest/lightning_iconUtils.js';
-import { normalizeVariant } from '/1/module/esm/0/l/en-US/mi/lightning%2Ficon%23util%2Fv%2F1_14_3-alpha/latest/lightning_icon_util.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/icon#icon.html/v/1_14_3-alpha/latest/lightning_icon_icon_html.js";
+import { classListMutation, normalizeString, isIE11 } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import { computeSldsClass, getCategory, isValidName } from '/1/module/esm/0/l/en-US/mi/lightning/iconUtils/v/1_14_3-alpha/latest/lightning_iconUtils.js';
+import { normalizeVariant } from '/1/module/esm/0/l/en-US/mi/lightning/icon#util/v/1_14_3-alpha/latest/lightning_icon_util.js';
 /**
  * Represents a visual element that provides context and enhances usability.
  */

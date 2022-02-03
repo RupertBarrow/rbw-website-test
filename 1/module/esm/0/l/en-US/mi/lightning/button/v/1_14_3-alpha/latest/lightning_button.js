@@ -1,9 +1,9 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Fbutton%23button.html%2Fv%2F1_14_3-alpha/latest/lightning_button_button_html.js";
-import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
-import { normalizeString as normalize } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
-import LightningPrimitiveButton from '/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveButton%2Fv%2F1_14_3-alpha/latest/lightning_primitiveButton.js';
-import template from '/1/module/esm/0/l/en-US/mi/lightning%2Fbutton%23button.html%2Fv%2F1_14_3-alpha/latest/lightning_button_button_html.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/button#button.html/v/1_14_3-alpha/latest/lightning_button_button_html.js";
+import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_3-alpha/latest/lightning_utils.js';
+import { normalizeString as normalize } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import LightningPrimitiveButton from '/1/module/esm/0/l/en-US/mi/lightning/primitiveButton/v/1_14_3-alpha/latest/lightning_primitiveButton.js';
+import template from '/1/module/esm/0/l/en-US/mi/lightning/button#button.html/v/1_14_3-alpha/latest/lightning_button_button_html.js';
 /**
  * A clickable element used to perform an action.
  */

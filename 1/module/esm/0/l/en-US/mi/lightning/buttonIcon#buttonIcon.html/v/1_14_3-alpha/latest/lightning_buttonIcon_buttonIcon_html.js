@@ -1,9 +1,9 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbuttonIcon%23buttonIcon.css%2Fv%2F1_14_3-alpha/latest/lightning_buttonIcon_buttonIcon_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/buttonIcon#buttonIcon.css/v/1_14_3-alpha/latest/lightning_buttonIcon_buttonIcon_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbuttonIcon%23buttonIcon.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_buttonIcon_buttonIcon_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/buttonIcon#buttonIcon.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_buttonIcon_buttonIcon_scoped_css?scoped=true.js";
 
-import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIcon%2Fv%2F1_14_3-alpha/latest/lightning_primitiveIcon.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon/v/1_14_3-alpha/latest/lightning_primitiveIcon.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {b: api_bind, c: api_custom_element, d: api_dynamic_text, t: api_text, h: api_element} = $api;
   const {_m0, _m1} = $ctx;

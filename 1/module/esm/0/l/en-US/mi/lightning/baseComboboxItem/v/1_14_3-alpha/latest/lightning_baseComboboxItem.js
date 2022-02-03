@@ -1,7 +1,7 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxItem%23baseComboboxItem.html%2Fv%2F1_14_3-alpha/latest/lightning_baseComboboxItem_baseComboboxItem_html.js";
-import card from '/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxItem%23card.html%2Fv%2F1_14_3-alpha/latest/lightning_baseComboboxItem_card_html.js';
-import inline from '/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxItem%23inline.html%2Fv%2F1_14_3-alpha/latest/lightning_baseComboboxItem_inline_html.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/baseComboboxItem#baseComboboxItem.html/v/1_14_3-alpha/latest/lightning_baseComboboxItem_baseComboboxItem_html.js";
+import card from '/1/module/esm/0/l/en-US/mi/lightning/baseComboboxItem#card.html/v/1_14_3-alpha/latest/lightning_baseComboboxItem_card_html.js';
+import inline from '/1/module/esm/0/l/en-US/mi/lightning/baseComboboxItem#inline.html/v/1_14_3-alpha/latest/lightning_baseComboboxItem_inline_html.js';
 
 class LightningBaseComboboxItem extends LightningElement {
   constructor(...args) {

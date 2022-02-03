@@ -1,11 +1,11 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FbuttonIcon%23buttonIcon.html%2Fv%2F1_14_3-alpha/latest/lightning_buttonIcon_buttonIcon_html.js";
-import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
-import { normalizeString as normalize } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js'; // remove-next-line-for-c-namespace
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/buttonIcon#buttonIcon.html/v/1_14_3-alpha/latest/lightning_buttonIcon_buttonIcon_html.js";
+import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_3-alpha/latest/lightning_utils.js';
+import { normalizeString as normalize } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js'; // remove-next-line-for-c-namespace
 
-import { Tooltip } from '/1/module/esm/0/l/en-US/mi/lightning%2FtooltipLibrary%2Fv%2F1_14_3-alpha/latest/lightning_tooltipLibrary.js';
-import LightningPrimitiveButton from '/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveButton%2Fv%2F1_14_3-alpha/latest/lightning_primitiveButton.js';
-import template from '/1/module/esm/0/l/en-US/mi/lightning%2FbuttonIcon%23buttonIcon.html%2Fv%2F1_14_3-alpha/latest/lightning_buttonIcon_buttonIcon_html.js';
+import { Tooltip } from '/1/module/esm/0/l/en-US/mi/lightning/tooltipLibrary/v/1_14_3-alpha/latest/lightning_tooltipLibrary.js';
+import LightningPrimitiveButton from '/1/module/esm/0/l/en-US/mi/lightning/primitiveButton/v/1_14_3-alpha/latest/lightning_primitiveButton.js';
+import template from '/1/module/esm/0/l/en-US/mi/lightning/buttonIcon#buttonIcon.html/v/1_14_3-alpha/latest/lightning_buttonIcon_buttonIcon_html.js';
 const DEFAULT_SIZE = 'medium';
 const DEFAULT_VARIANT = 'border';
 const DEFAULT_TYPE = 'button';

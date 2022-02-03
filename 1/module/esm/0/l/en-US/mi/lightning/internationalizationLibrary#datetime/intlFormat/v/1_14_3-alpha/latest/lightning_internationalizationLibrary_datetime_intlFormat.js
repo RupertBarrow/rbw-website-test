@@ -1,7 +1,7 @@
-import locale from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Flocale%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_locale.js';
-import { DateTimeOptions } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%23datetime%2FdateTimeOptions%2Fv%2F1_14_3-alpha/latest/lightning_internationalizationLibrary_datetime_dateTimeOptions.js';
-import { formatDateUTC, formatDate, toOtherCalendar, syncUTCToWallTime } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%23localizationService%2Fv%2F1_14_3-alpha/latest/lightning_internationalizationLibrary_localizationService.js';
-import { isValidISODateTimeString, TIME_SEPARATOR } from '/1/module/esm/0/l/en-US/mi/lightning%2Fiso8601Utils%2Fv%2F1_14_3-alpha/latest/lightning_iso8601Utils.js';
+import locale from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/locale/v/1_14_3-alpha/latest/@salesforce_i18n_locale.js';
+import { DateTimeOptions } from '/1/module/esm/0/l/en-US/mi/lightning/internationalizationLibrary#datetime/dateTimeOptions/v/1_14_3-alpha/latest/lightning_internationalizationLibrary_datetime_dateTimeOptions.js';
+import { formatDateUTC, formatDate, toOtherCalendar, syncUTCToWallTime } from '/1/module/esm/0/l/en-US/mi/lightning/internationalizationLibrary#localizationService/v/1_14_3-alpha/latest/lightning_internationalizationLibrary_localizationService.js';
+import { isValidISODateTimeString, TIME_SEPARATOR } from '/1/module/esm/0/l/en-US/mi/lightning/iso8601Utils/v/1_14_3-alpha/latest/lightning_iso8601Utils.js';
 const dateTimeFormatInstancesCache = {};
 const POSSIBLE_OPTS = {
   weekday: true,

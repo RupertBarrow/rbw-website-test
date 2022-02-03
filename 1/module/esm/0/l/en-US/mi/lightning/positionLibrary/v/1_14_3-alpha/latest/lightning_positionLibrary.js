@@ -1,13 +1,13 @@
-import { registerDecorators as _registerDecorators } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-export { Direction } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23direction%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_direction.js';
-import { Constraint } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23constraint%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_constraint.js';
-import { checkFlipPossibility, Direction, flipDirection, mapToHorizontal, mapToVertical, normalizeDirection } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23direction%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_direction.js';
-import { createProxy } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23elementProxyCache%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_elementProxyCache.js';
-import { getPositionTarget, getScrollableParent, getScrollableParentFromEventPath, isDomNode, normalizeElement, normalizePosition, requestAnimationFrameAsPromise, WindowManager } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23util%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_util.js';
-import { addConstraints, bindEvents, nextIndex, rebaseIndex, reposition, scheduleReposition } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23reposition%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_reposition.js';
-import { assert } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
-import { Relationship } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23relationship%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_relationship.js';
-import { OverlayDetector } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23overlayDetector%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_overlayDetector.js';
+import { registerDecorators as _registerDecorators } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+export { Direction } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#direction/v/1_14_3-alpha/latest/lightning_positionLibrary_direction.js';
+import { Constraint } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#constraint/v/1_14_3-alpha/latest/lightning_positionLibrary_constraint.js';
+import { checkFlipPossibility, Direction, flipDirection, mapToHorizontal, mapToVertical, normalizeDirection } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#direction/v/1_14_3-alpha/latest/lightning_positionLibrary_direction.js';
+import { createProxy } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#elementProxyCache/v/1_14_3-alpha/latest/lightning_positionLibrary_elementProxyCache.js';
+import { getPositionTarget, getScrollableParent, getScrollableParentFromEventPath, isDomNode, normalizeElement, normalizePosition, requestAnimationFrameAsPromise, WindowManager } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#util/v/1_14_3-alpha/latest/lightning_positionLibrary_util.js';
+import { addConstraints, bindEvents, nextIndex, rebaseIndex, reposition, scheduleReposition } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#reposition/v/1_14_3-alpha/latest/lightning_positionLibrary_reposition.js';
+import { assert } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import { Relationship } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#relationship/v/1_14_3-alpha/latest/lightning_positionLibrary_relationship.js';
+import { OverlayDetector } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#overlayDetector/v/1_14_3-alpha/latest/lightning_positionLibrary_overlayDetector.js';
 const DEFAULT_MIN_HEIGHT = '1.875rem';
 
 function setupObserver(config, scrollableParent) {
