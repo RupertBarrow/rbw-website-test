@@ -1,2 +1,2 @@
 
-web: vendor/bin/heroku-php-apache2 rob-test/
+web: vendor/bin/heroku-php-apache2 lwr-page-test/
