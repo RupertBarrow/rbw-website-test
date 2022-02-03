@@ -24,4 +24,4 @@ const LOCALDATA = {
   ]
 };
 
-console.log('LOCALDATA = ', LOCALDATA);
+exports.LOCALDATA = LOCALDATA 
