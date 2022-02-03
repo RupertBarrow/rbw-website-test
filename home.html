@@ -9,7 +9,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
   <title>RBW's LWR Node App</title>
-  <link rel="stylesheet" type="text/css" href="/1/asset/s/latest/public/assets/SLDS/styles/salesforce-lightning-design-system.css" />
+  <link rel="stylesheet" type="text/css"
+    href="/1/asset/s/latest/public/assets/SLDS/styles/salesforce-lightning-design-system.css" />
 
   <!--
   <script src="https://unpkg.com/@webcomponents/webcomponentsjs@^2/webcomponents-bundle.js"></script>
@@ -20,23 +21,46 @@
   <img src="/1/asset/s/latest/public/assets/recipes-logo.png" alt="logo" />
 
   <!-- triple braces prevents HTML escaping -->
-  <my-app></my-app> <script type="application/javascript">
-        /* generated View/HMR debug script */
-        globalThis._lwrRuntimeDebug = {
-            viewMetadata: {
-                assetReferences: ["/Users/rupert/Workspaces/other/RBW_RAPIDO/RAPIDO_Forms/rapido-forms-lwr/src/assets/SLDS/styles/salesforce-lightning-design-system.css","/Users/rupert/Workspaces/other/RBW_RAPIDO/RAPIDO_Forms/rapido-forms-lwr/src/assets/recipes-logo.png"],
-                templates: ["/Users/rupert/Workspaces/other/RBW_RAPIDO/RAPIDO_Forms/rapido-forms-lwr/src/layouts/index.html"]
-            }
+  <my-app></my-app>
+
+  <script type="application/javascript">
+    /* generated View/HMR debug script */
+    globalThis._lwrRuntimeDebug = {
+      viewMetadata: {
+        assetReferences: ["/Users/rupert/Workspaces/other/RBW_RAPIDO/RAPIDO_Forms/rapido-forms-lwr/src/assets/SLDS/styles/salesforce-lightning-design-system.css","/Users/rupert/Workspaces/other/RBW_RAPIDO/RAPIDO_Forms/rapido-forms-lwr/src/assets/recipes-logo.png"],
+        templates: ["/Users/rupert/Workspaces/other/RBW_RAPIDO/RAPIDO_Forms/rapido-forms-lwr/src/layouts/index.html"]
+      }
+    }
+
+    globalThis.lwcRuntimeFlags = { ENABLE_HMR: false };
+  </script>
+
+  <script type="application/javascript">
+    /* This script is generated */
+    /* Client Bootstrap configuration */
+    globalThis.LWR = globalThis.LWR || {};
+    Object.assign(globalThis.LWR,{
+      "bootstrapModule": "@lwrjs/app-service/my/module/esm/v/0_5_11",
+      "autoBoot": true,
+      "importMappings": { 
+        "imports": { 
+          "my/app/v/0_0_1": "/1/module/esm/0/l/en-US/mi/my/app/v/0_0_1/latest/my_app.js"
+        },
+        "default": "/1/module/esm/0/l/en-US/mi/"
+      },
+      "rootComponents": ["my/app/v/0_0_1"],
+      "endpoints": {
+        "uris": {
+          "mapping": "/1/mapping/esm/0/l/en-US/mp/",
+          "module": "/1/module/esm/0/l/en-US/mi/",
+          "hmr": "/1/hmr/esm/0?"
         }
-        
-globalThis.lwcRuntimeFlags = { ENABLE_HMR: true };</script>
-<script type="application/javascript">/* This script is generated */
-/* Client Bootstrap configuration */
-globalThis.LWR = globalThis.LWR || {};
-Object.assign(globalThis.LWR, {"bootstrapModule":"@lwrjs/app-service/my/module/esm/v/0_5_11","autoBoot":true,"importMappings":{"imports":{"my/app/v/0_0_1":"/1/module/esm/0/l/en-US/mi/my/app/v/0_0_1/latest/my_app.js"},"default":"/1/module/esm/0/l/en-US/mi/"},"rootComponents":["my/app/v/0_0_1"],"endpoints":{"uris":{"mapping":"/1/mapping/esm/0/l/en-US/mp/","module":"/1/module/esm/0/l/en-US/mi/","hmr":"/1/hmr/esm/0?"}}});
-globalThis.process = { env: { NODE_ENV: "dev" } };</script>
-<script type="module" src="/1/module/esm/0/l/en-US/mi/@lwrjs/app-service/my/module/esm/v/0_5_11/latest/@lwrjs_app-service_my_module_esm.js"></script>
-<link rel="modulepreload" href="/1/module/esm/0/l/en-US/mi/my/app/v/0_0_1/latest/my_app.js" />
+      }
+    });
+    globalThis.process = { env: { NODE_ENV: "dev" } };
+  </script>
+  <script type="module" src="/1/module/esm/0/l/en-US/mi/@lwrjs/app-service/my/module/esm/v/0_5_11/latest/@lwrjs_app-service_my_module_esm.js"></script>
+  <link rel="modulepreload" href="/1/module/esm/0/l/en-US/mi/my/app/v/0_0_1/latest/my_app.js" />
 </body>
 
 </html>
