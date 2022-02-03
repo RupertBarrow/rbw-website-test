@@ -1,4 +1,4 @@
-export default LOCALDATA = {
+const LOCALDATA = {
     "tracks": [
       {
         "path": "./music/OpenOceeans.mp3",
