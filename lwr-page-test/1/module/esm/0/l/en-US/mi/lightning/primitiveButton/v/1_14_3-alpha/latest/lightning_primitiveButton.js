@@ -1,7 +1,7 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/primitiveButton#primitiveButton.html/v/1_14_3-alpha/latest/lightning_primitiveButton_primitiveButton_html.js";
-import { isIE11, normalizeBoolean, normalizeString, synchronizeAttrs, buttonGroupOrderClass } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
-import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_3-alpha/latest/lightning_utils.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveButton%23primitiveButton.html%2Fv%2F1_14_3-alpha/latest/lightning_primitiveButton_primitiveButton_html.js";
+import { isIE11, normalizeBoolean, normalizeString, synchronizeAttrs, buttonGroupOrderClass } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
 const ARIA_DESCRIBEDBY = 'aria-describedby';
 const ARIA_CONTROLS = 'aria-controls';
 const ARIA_LABELLEDBY = 'aria-labelledby';

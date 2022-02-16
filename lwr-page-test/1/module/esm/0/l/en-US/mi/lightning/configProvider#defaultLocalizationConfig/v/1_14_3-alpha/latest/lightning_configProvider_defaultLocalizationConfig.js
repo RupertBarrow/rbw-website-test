@@ -1,7 +1,7 @@
 // default implementation of localization service for en-US locale. This covers the current usage of the localizationService in the code base.
 // This should be removed when the framework team moves auraLocalizationService to a separate module
-import { isValidISOTimeString, isValidISODateTimeString, removeTimeZoneSuffix, STANDARD_TIME_FORMAT, STANDARD_DATE_FORMAT, TIME_SEPARATOR } from '/1/module/esm/0/l/en-US/mi/lightning/iso8601Utils/v/1_14_3-alpha/latest/lightning_iso8601Utils.js';
-import Duration from '/1/module/esm/0/l/en-US/mi/lightning/configProvider#defaultDurationConfig/v/1_14_3-alpha/latest/lightning_configProvider_defaultDurationConfig.js';
+import { isValidISOTimeString, isValidISODateTimeString, removeTimeZoneSuffix, STANDARD_TIME_FORMAT, STANDARD_DATE_FORMAT, TIME_SEPARATOR } from '/1/module/esm/0/l/en-US/mi/lightning%2Fiso8601Utils%2Fv%2F1_14_3-alpha/latest/lightning_iso8601Utils.js';
+import Duration from '/1/module/esm/0/l/en-US/mi/lightning%2FconfigProvider%23defaultDurationConfig%2Fv%2F1_14_3-alpha/latest/lightning_configProvider_defaultDurationConfig.js';
 const MONTH_NAMES = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
 const DATE_FORMAT = {
   short: 'M/d/yyyy',

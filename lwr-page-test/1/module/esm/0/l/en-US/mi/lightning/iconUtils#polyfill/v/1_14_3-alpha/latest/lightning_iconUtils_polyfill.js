@@ -12,8 +12,8 @@ For example, given "/assets/icons/action-sprite/svg/symbols.svg#approval", we
 replace the "#approval" id with "#${namespace}-approval" and a similar
 operation is done on the corresponding symbol element.
 **/
-import fetchSvg from '/1/module/esm/0/l/en-US/mi/lightning/iconUtils#fetchSvg/v/1_14_3-alpha/latest/lightning_iconUtils_fetchSvg.js';
-import supportsSvg from '/1/module/esm/0/l/en-US/mi/lightning/iconUtils#supportsSvg/v/1_14_3-alpha/latest/lightning_iconUtils_supportsSvg.js';
+import fetchSvg from '/1/module/esm/0/l/en-US/mi/lightning%2FiconUtils%23fetchSvg%2Fv%2F1_14_3-alpha/latest/lightning_iconUtils_fetchSvg.js';
+import supportsSvg from '/1/module/esm/0/l/en-US/mi/lightning%2FiconUtils%23supportsSvg%2Fv%2F1_14_3-alpha/latest/lightning_iconUtils_supportsSvg.js';
 const svgTagName = /svg/i;
 
 const isSvgElement = el => el && svgTagName.test(el.nodeName);

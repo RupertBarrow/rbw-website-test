@@ -1,6 +1,6 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIframe#primitiveIframe.html/v/1_14_3-alpha/latest/lightning_primitiveIframe_primitiveIframe_html.js";
-import { registerDomain, unregisterDomain } from '/1/module/esm/0/l/en-US/mi/lightning/messageDispatcher/v/1_14_3-alpha/latest/lightning_messageDispatcher.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIframe%23primitiveIframe.html%2Fv%2F1_14_3-alpha/latest/lightning_primitiveIframe_primitiveIframe_html.js";
+import { registerDomain, unregisterDomain } from '/1/module/esm/0/l/en-US/mi/lightning%2FmessageDispatcher%2Fv%2F1_14_3-alpha/latest/lightning_messageDispatcher.js';
 /**
  * Class representing primitive iframe.
  * @extends Element

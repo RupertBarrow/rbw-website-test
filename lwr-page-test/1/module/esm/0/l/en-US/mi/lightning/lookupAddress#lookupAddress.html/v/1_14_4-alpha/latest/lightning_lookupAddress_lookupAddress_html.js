@@ -1,0 +1,65 @@
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23lookupAddress.css%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_css.js";
+
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23lookupAddress.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_scoped_css?scoped=true.js";
+
+import _lightningBaseCombobox from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseCombobox%2Fv%2F1_14_4-alpha/latest/lightning_baseCombobox.js";
+import _lightningPrimitiveIframe from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIframe%2Fv%2F1_14_4-alpha/latest/lightning_primitiveIframe.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
+const stc0 = {
+  classMap: {
+    "slds-form-element__control": true
+  },
+  key: 1
+};
+const stc1 = [["display", "none", false]];
+function tmpl($api, $cmp, $slotset, $ctx) {
+  const {d: api_dynamic_text, t: api_text, h: api_element, b: api_bind, c: api_custom_element} = $api;
+  const {_m0, _m1, _m2, _m3} = $ctx;
+  return [$cmp._isLoaded ? api_element("label", {
+    className: $cmp.computedLabelClass,
+    key: 0
+  }, [api_text(api_dynamic_text($cmp.label))]) : null, $cmp._isLoaded ? api_element("div", stc0, [api_custom_element("lightning-base-combobox", _lightningBaseCombobox, {
+    className: $cmp.computedLookupComboboxClass,
+    props: {
+      "variant": "lookup",
+      "items": $cmp._items,
+      "disabled": $cmp.disabled,
+      "dropdownAlignment": "auto",
+      "placeholder": $cmp.placeholder,
+      "inputText": $cmp.inputText,
+      "inputIconName": $cmp._inputIconName,
+      "showInputActivityIndicator": $cmp.showActivityIndicator,
+      "attributionLogoUrl": $cmp._googleLogoUrl,
+      "attributionLogoAssistiveText": $cmp._googleLogoText
+    },
+    key: 2,
+    on: {
+      "textinput": _m0 || ($ctx._m0 = api_bind($cmp.handleTextInput)),
+      "select": _m1 || ($ctx._m1 = api_bind($cmp.handleSelect)),
+      "ready": _m2 || ($ctx._m2 = api_bind($cmp.handleComboboxReady))
+    }
+  })]) : null, api_custom_element("lightning-primitive-iframe", _lightningPrimitiveIframe, {
+    styleDecls: stc1,
+    props: {
+      "src": $cmp.apiSrc,
+      "domain": $cmp.apiDomain
+    },
+    key: 3,
+    on: {
+      "iframeload": _m3 || ($ctx._m3 = api_bind($cmp.handleIframeLoad))
+    }
+  })];
+}
+export default registerTemplate(tmpl);
+tmpl.stylesheets = [];
+
+
+if (_implicitStylesheets) {
+  tmpl.stylesheets.push.apply(tmpl.stylesheets, _implicitStylesheets)
+}
+if (_implicitScopedStylesheets) {
+  tmpl.stylesheets.push.apply(tmpl.stylesheets, _implicitScopedStylesheets)
+}
+if (_implicitStylesheets || _implicitScopedStylesheets) {
+  tmpl.stylesheetToken = "lightning-lookupAddress_lookupAddress"
+}

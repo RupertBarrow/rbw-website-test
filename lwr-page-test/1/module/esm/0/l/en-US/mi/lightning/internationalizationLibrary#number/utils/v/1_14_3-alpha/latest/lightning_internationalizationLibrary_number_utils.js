@@ -1,8 +1,8 @@
-import locale from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/locale/v/1_14_3-alpha/latest/@salesforce_i18n_locale.js';
-import numberFormat from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/number.numberFormat/v/1_14_3-alpha/latest/@salesforce_i18n_number_numberFormat.js';
-import percentFormat from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/number.percentFormat/v/1_14_3-alpha/latest/@salesforce_i18n_number_percentFormat.js';
-import currencyFormat from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/number.currencyFormat/v/1_14_3-alpha/latest/@salesforce_i18n_number_currencyFormat.js';
-import currency from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/currency/v/1_14_3-alpha/latest/@salesforce_i18n_currency.js'; // For possible parameters, see the Intl.NumberFormat spec:
+import locale from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Flocale%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_locale.js';
+import numberFormat from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Fnumber.numberFormat%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_number_numberFormat.js';
+import percentFormat from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Fnumber.percentFormat%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_number_percentFormat.js';
+import currencyFormat from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Fnumber.currencyFormat%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_number_currencyFormat.js';
+import currency from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Fcurrency%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_currency.js'; // For possible parameters, see the Intl.NumberFormat spec:
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NumberFormat#Parameters
 
 const POSSIBLE_OPTS = {

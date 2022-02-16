@@ -1,4 +1,4 @@
-import { TransformBuilder } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#transformBuilder/v/1_14_3-alpha/latest/lightning_positionLibrary_transformBuilder.js';
+import { TransformBuilder } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23transformBuilder%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_transformBuilder.js';
 export class Constraint {
   constructor(type, config) {
     const {

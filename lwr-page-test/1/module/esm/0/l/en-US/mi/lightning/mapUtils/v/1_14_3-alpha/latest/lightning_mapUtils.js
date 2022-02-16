@@ -1,6 +1,6 @@
-import appVersion from '/1/module/esm/0/l/en-US/mi/@salesforce/internal/core.appVersion/v/1_14_3-alpha/latest/@salesforce_internal_core_appVersion.js';
-import securePort from '/1/module/esm/0/l/en-US/mi/@salesforce/internal/core.securePort/v/1_14_3-alpha/latest/@salesforce_internal_core_securePort.js';
-import untrustedContentDomain from '/1/module/esm/0/l/en-US/mi/@salesforce/internal/core.untrustedContentDomain/v/1_14_3-alpha/latest/@salesforce_internal_core_untrustedContentDomain.js'; // This fallback is only needed for off core aura applications and aura tests.
+import appVersion from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Finternal%2Fcore.appVersion%2Fv%2F1_14_3-alpha/latest/@salesforce_internal_core_appVersion.js';
+import securePort from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Finternal%2Fcore.securePort%2Fv%2F1_14_3-alpha/latest/@salesforce_internal_core_securePort.js';
+import untrustedContentDomain from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Finternal%2Fcore.untrustedContentDomain%2Fv%2F1_14_3-alpha/latest/@salesforce_internal_core_untrustedContentDomain.js'; // This fallback is only needed for off core aura applications and aura tests.
 // Please also update the default value in the scoped-module-resolver If the value here needs to be updated
 
 const FALLBACK_DOMAIN = '.a.forceusercontent.com';

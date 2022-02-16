@@ -1,11 +1,11 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon#primitiveIcon.html/v/1_14_3-alpha/latest/lightning_primitiveIcon_primitiveIcon_html.js";
-import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_3-alpha/latest/lightning_utils.js';
-import { normalizeString as normalize } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
-import standardTemplate from '/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon#primitiveIcon.html/v/1_14_3-alpha/latest/lightning_primitiveIcon_primitiveIcon_html.js';
-import { getName, isValidName, polyfill } from '/1/module/esm/0/l/en-US/mi/lightning/iconUtils/v/1_14_3-alpha/latest/lightning_iconUtils.js';
-import dir from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/dir/v/1_14_3-alpha/latest/@salesforce_i18n_dir.js';
-import { fetchIconLibrary, hasIconLibrary, getIconLibrary } from '/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon#fetch/v/1_14_3-alpha/latest/lightning_primitiveIcon_fetch.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIcon%23primitiveIcon.html%2Fv%2F1_14_3-alpha/latest/lightning_primitiveIcon_primitiveIcon_html.js";
+import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
+import { normalizeString as normalize } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import standardTemplate from '/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIcon%23primitiveIcon.html%2Fv%2F1_14_3-alpha/latest/lightning_primitiveIcon_primitiveIcon_html.js';
+import { getName, isValidName, polyfill } from '/1/module/esm/0/l/en-US/mi/lightning%2FiconUtils%2Fv%2F1_14_3-alpha/latest/lightning_iconUtils.js';
+import dir from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Fdir%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_dir.js';
+import { fetchIconLibrary, hasIconLibrary, getIconLibrary } from '/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIcon%23fetch%2Fv%2F1_14_3-alpha/latest/lightning_primitiveIcon_fetch.js';
 
 class LightningPrimitiveIcon extends LightningElement {
   constructor(...args) {

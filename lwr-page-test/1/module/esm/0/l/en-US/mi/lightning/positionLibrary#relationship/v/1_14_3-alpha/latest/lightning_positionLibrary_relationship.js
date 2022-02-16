@@ -1,5 +1,5 @@
-import { reposition } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#reposition/v/1_14_3-alpha/latest/lightning_positionLibrary_reposition.js';
-import { POSITION_ATTR_NAME } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#util/v/1_14_3-alpha/latest/lightning_positionLibrary_util.js';
+import { reposition } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23reposition%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_reposition.js';
+import { POSITION_ATTR_NAME } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23util%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_util.js';
 export class Relationship {
   constructor(config, constraintList, scrollableParent, observer) {
     this.config = config;

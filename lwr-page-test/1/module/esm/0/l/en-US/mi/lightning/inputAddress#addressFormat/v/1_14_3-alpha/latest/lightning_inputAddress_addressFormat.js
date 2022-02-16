@@ -1,4 +1,4 @@
-import { addressFormat } from '/1/module/esm/0/l/en-US/mi/lightning/internationalizationLibrary/v/1_14_3-alpha/latest/lightning_internationalizationLibrary.js';
+import { addressFormat } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%2Fv%2F1_14_3-alpha/latest/lightning_internationalizationLibrary.js';
 const FORMAT_CODE_MAP = {
   A: 'street',
   C: 'city',

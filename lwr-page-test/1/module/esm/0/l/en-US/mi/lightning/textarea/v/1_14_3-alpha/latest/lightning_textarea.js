@@ -1,12 +1,12 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/textarea#textarea.html/v/1_14_3-alpha/latest/lightning_textarea_textarea_html.js";
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Ftextarea%23textarea.html%2Fv%2F1_14_3-alpha/latest/lightning_textarea_textarea_html.js";
 
 /* eslint-disable @lwc/lwc/no-api-reassignments */
-import labelRequired from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningControl.required/v/1_14_3-alpha/latest/@salesforce_label_LightningControl_required.js';
-import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_3-alpha/latest/lightning_utils.js';
-import { normalizeBoolean, synchronizeAttrs, getRealDOMId, classListMutation, decorateInputForDragon, setDecoratedDragonInputValueWithoutEvent } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
-import { InteractingState, normalizeVariant, FieldConstraintApiWithProxyInput, isEmptyString, VARIANT } from '/1/module/esm/0/l/en-US/mi/lightning/inputUtils/v/1_14_3-alpha/latest/lightning_inputUtils.js';
-import { TouchScroller } from '/1/module/esm/0/l/en-US/mi/lightning/touchScrollLibrary/v/1_14_3-alpha/latest/lightning_touchScrollLibrary.js';
+import labelRequired from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningControl.required%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningControl_required.js';
+import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
+import { normalizeBoolean, synchronizeAttrs, getRealDOMId, classListMutation, decorateInputForDragon, setDecoratedDragonInputValueWithoutEvent } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import { InteractingState, normalizeVariant, FieldConstraintApiWithProxyInput, isEmptyString, VARIANT } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_3-alpha/latest/lightning_inputUtils.js';
+import { TouchScroller } from '/1/module/esm/0/l/en-US/mi/lightning%2FtouchScrollLibrary%2Fv%2F1_14_3-alpha/latest/lightning_touchScrollLibrary.js';
 const i18n = {
   required: labelRequired
 };

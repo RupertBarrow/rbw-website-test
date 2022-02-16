@@ -1,4 +1,4 @@
-import { EventEmitter } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import { EventEmitter } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
 /**
  Represents an object which keeps track of a user's interacting state.
  @constructor InteractingState

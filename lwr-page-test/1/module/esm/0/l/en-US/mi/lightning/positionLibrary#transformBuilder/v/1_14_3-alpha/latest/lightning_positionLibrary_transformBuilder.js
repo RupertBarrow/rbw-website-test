@@ -1,5 +1,5 @@
-import { Transformers, toTransformFunctions } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#transformers/v/1_14_3-alpha/latest/lightning_positionLibrary_transformers.js';
-import { Direction } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#direction/v/1_14_3-alpha/latest/lightning_positionLibrary_direction.js';
+import { Transformers, toTransformFunctions } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23transformers%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_transformers.js';
+import { Direction } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23direction%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_direction.js';
 export class TransformBuilder {
   type(value) {
     this._type = value;

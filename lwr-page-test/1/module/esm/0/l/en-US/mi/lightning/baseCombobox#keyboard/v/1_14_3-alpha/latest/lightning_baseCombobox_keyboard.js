@@ -1,4 +1,4 @@
-import { runActionOnBufferedTypedCharacters } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import { runActionOnBufferedTypedCharacters } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
 
 function preventDefaultAndStopPropagation(event) {
   event.preventDefault();

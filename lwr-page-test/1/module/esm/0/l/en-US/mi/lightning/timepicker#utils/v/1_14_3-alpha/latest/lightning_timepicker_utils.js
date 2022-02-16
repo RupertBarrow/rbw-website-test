@@ -1,4 +1,4 @@
-import { getISOTimeString, parseTime } from '/1/module/esm/0/l/en-US/mi/lightning/internationalizationLibrary/v/1_14_3-alpha/latest/lightning_internationalizationLibrary.js';
+import { getISOTimeString, parseTime } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%2Fv%2F1_14_3-alpha/latest/lightning_internationalizationLibrary.js';
 /* returns the closes time in the list that should be highlighted in case the value is not in the list. E.g.
 - if value is 16:18 and the list has 15 minute intervals, returns 16:30
 */
