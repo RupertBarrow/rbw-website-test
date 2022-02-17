@@ -2,7 +2,7 @@ import { registerDecorators as _registerDecorators, registerComponent as _regist
 import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Ftextarea%23textarea.html%2Fv%2F1_14_4-alpha/latest/lightning_textarea_textarea_html.js";
 
 /* eslint-disable @lwc/lwc/no-api-reassignments */
-import labelRequired from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningControl.required%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningControl_required.js';
+import labelRequired from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningControl.required%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningControl_required.js';
 import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_4-alpha/latest/lightning_utils.js';
 import { normalizeBoolean, synchronizeAttrs, getRealDOMId, classListMutation, decorateInputForDragon, setDecoratedDragonInputValueWithoutEvent } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_4-alpha/latest/lightning_utilsPrivate.js';
 import { InteractingState, normalizeVariant, FieldConstraintApiWithProxyInput, isEmptyString, VARIANT } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_4-alpha/latest/lightning_inputUtils.js';

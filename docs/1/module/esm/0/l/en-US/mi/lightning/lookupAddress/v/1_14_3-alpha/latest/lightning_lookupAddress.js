@@ -2,7 +2,7 @@ import { registerDecorators as _registerDecorators, registerComponent as _regist
 import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23lookupAddress.html%2Fv%2F1_14_3-alpha/latest/lightning_lookupAddress_lookupAddress_html.js";
 
 /* eslint-disable @lwc/lwc/no-api-reassignments */
-import lang from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Flang%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_lang.js';
+import lang from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Flang%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_lang.js';
 import { toHighlightParts } from '/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23highlight%2Fv%2F1_14_3-alpha/latest/lightning_lookupAddress_highlight.js';
 import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
 import { normalizeVariant, VARIANT, debounce } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_3-alpha/latest/lightning_inputUtils.js';

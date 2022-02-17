@@ -1,6 +1,6 @@
 import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxItem%23inline.css%2Fv%2F1_14_4-alpha/latest/lightning_baseComboboxItem_inline_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxItem%23inline.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_4-alpha/latest/lightning_baseComboboxItem_inline_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxItem%23inline.scoped.css?scoped=true%2Fv%2F1_14_4-alpha/latest/lightning_baseComboboxItem_inline_scoped_css?scoped=true.js";
 
 import _lightningIcon from "/1/module/esm/0/l/en-US/mi/lightning%2Ficon%2Fv%2F1_14_4-alpha/latest/lightning_icon.js";
 import _lightningBaseComboboxFormattedText from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxFormattedText%2Fv%2F1_14_4-alpha/latest/lightning_baseComboboxFormattedText.js";

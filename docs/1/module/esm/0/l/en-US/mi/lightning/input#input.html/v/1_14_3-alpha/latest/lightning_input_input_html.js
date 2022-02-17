@@ -1,6 +1,6 @@
 import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Finput%23input.css%2Fv%2F1_14_3-alpha/latest/lightning_input_input_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Finput%23input.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_input_input_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Finput%23input.scoped.css?scoped=true%2Fv%2F1_14_3-alpha/latest/lightning_input_input_scoped_css?scoped=true.js";
 
 import _lightningHelptext from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext%2Fv%2F1_14_3-alpha/latest/lightning_helptext.js";
 import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIcon%2Fv%2F1_14_3-alpha/latest/lightning_primitiveIcon.js";

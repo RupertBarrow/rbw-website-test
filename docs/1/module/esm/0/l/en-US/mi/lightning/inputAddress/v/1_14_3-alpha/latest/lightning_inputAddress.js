@@ -2,8 +2,8 @@ import { registerDecorators as _registerDecorators, registerComponent as _regist
 import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FinputAddress%23inputAddress.html%2Fv%2F1_14_3-alpha/latest/lightning_inputAddress_inputAddress_html.js";
 
 /* eslint-disable @lwc/lwc/no-api-reassignments */
-import labelRequired from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningControl.required%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningControl_required.js';
-import locale from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Flocale%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_locale.js';
+import labelRequired from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningControl.required%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningControl_required.js';
+import locale from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Flocale%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_locale.js';
 import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
 import { assert, normalizeBoolean, classListMutation } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
 import { isEmptyString, FieldConstraintApi, InteractingState, normalizeVariant, VARIANT } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_3-alpha/latest/lightning_inputUtils.js';

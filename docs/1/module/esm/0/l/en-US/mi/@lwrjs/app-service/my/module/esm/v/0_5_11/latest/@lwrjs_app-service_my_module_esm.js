@@ -1,9 +1,9 @@
-import { load } from "/1/module/esm/0/l/en-US/mi/lwr%2FesmLoader%2Fv%2F0_5_11/latest/lwr_esmLoader.js";
+import { load } from "/1/module/esm/0/l/en-US/mi/lwr/esmLoader/v/0_5_11/latest/lwr_esmLoader.js";
 /* This module is generated */
-import '/1/module/esm/0/l/en-US/mi/%40lwc%2Fsynthetic-shadow%2Fv%2F2_7_4/latest/@lwc_synthetic-shadow.js';
+import '/1/module/esm/0/l/en-US/mi/@lwc/synthetic-shadow/v/2_7_4/latest/@lwc_synthetic-shadow.js';
 ;
-import { initHMR } from '/1/module/esm/0/l/en-US/mi/lwr%2Fhmr%2Fv%2F0_5_11/latest/lwr_hmr.js';
-import { init, toKebabCase } from '/1/module/esm/0/l/en-US/mi/lwr%2Finit%2Fv%2F0_5_11/latest/lwr_init.js';
+import { initHMR } from '/1/module/esm/0/l/en-US/mi/lwr/hmr/v/0_5_11/latest/lwr_hmr.js';
+import { init, toKebabCase } from '/1/module/esm/0/l/en-US/mi/lwr/init/v/0_5_11/latest/lwr_init.js';
 
 // initialize additional non-configured root components
 const { rootComponents } = globalThis.LWR;

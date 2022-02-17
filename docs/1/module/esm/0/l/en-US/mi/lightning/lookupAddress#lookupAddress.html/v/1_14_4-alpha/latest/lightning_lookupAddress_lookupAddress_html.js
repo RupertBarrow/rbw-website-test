@@ -1,6 +1,6 @@
 import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23lookupAddress.css%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23lookupAddress.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23lookupAddress.scoped.css?scoped=true%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_scoped_css?scoped=true.js";
 
 import _lightningBaseCombobox from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseCombobox%2Fv%2F1_14_4-alpha/latest/lightning_baseCombobox.js";
 import _lightningPrimitiveIframe from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIframe%2Fv%2F1_14_4-alpha/latest/lightning_primitiveIframe.js";

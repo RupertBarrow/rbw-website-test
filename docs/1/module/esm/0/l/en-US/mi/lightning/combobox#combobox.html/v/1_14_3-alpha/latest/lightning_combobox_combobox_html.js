@@ -1,6 +1,6 @@
 import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcombobox%23combobox.css%2Fv%2F1_14_3-alpha/latest/lightning_combobox_combobox_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcombobox%23combobox.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_combobox_combobox_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcombobox%23combobox.scoped.css?scoped=true%2Fv%2F1_14_3-alpha/latest/lightning_combobox_combobox_scoped_css?scoped=true.js";
 
 import _lightningHelptext from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext%2Fv%2F1_14_3-alpha/latest/lightning_helptext.js";
 import _lightningBaseCombobox from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseCombobox%2Fv%2F1_14_3-alpha/latest/lightning_baseCombobox.js";

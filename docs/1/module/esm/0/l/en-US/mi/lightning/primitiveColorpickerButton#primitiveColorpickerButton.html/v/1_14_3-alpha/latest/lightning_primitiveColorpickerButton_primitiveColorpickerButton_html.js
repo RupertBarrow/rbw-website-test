@@ -1,6 +1,6 @@
 import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveColorpickerButton%23primitiveColorpickerButton.css%2Fv%2F1_14_3-alpha/latest/lightning_primitiveColorpickerButton_primitiveColorpickerButton_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveColorpickerButton%23primitiveColorpickerButton.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_primitiveColorpickerButton_primitiveColorpickerButton_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveColorpickerButton%23primitiveColorpickerButton.scoped.css?scoped=true%2Fv%2F1_14_3-alpha/latest/lightning_primitiveColorpickerButton_primitiveColorpickerButton_scoped_css?scoped=true.js";
 
 import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIcon%2Fv%2F1_14_3-alpha/latest/lightning_primitiveIcon.js";
 import _lightningColorPickerPanel from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerPanel%2Fv%2F1_14_3-alpha/latest/lightning_colorPickerPanel.js";

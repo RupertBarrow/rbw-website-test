@@ -1,9 +1,9 @@
 import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
 import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseCombobox%23baseCombobox.html%2Fv%2F1_14_4-alpha/latest/lightning_baseCombobox_baseCombobox_html.js";
-import labelAriaSelectedOptions from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningCombobox.ariaSelectedOptions%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningCombobox_ariaSelectedOptions.js';
-import labelDeselectOptionKeyboard from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningCombobox.deselectOptionKeyboard%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningCombobox_deselectOptionKeyboard.js';
-import labelLoadingText from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningCombobox.loadingText%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningCombobox_loadingText.js';
-import labelPillCloseButtonAlternativeText from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningCombobox.pillCloseButtonAlternativeText%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningCombobox_pillCloseButtonAlternativeText.js';
+import labelAriaSelectedOptions from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningCombobox.ariaSelectedOptions%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningCombobox_ariaSelectedOptions.js';
+import labelDeselectOptionKeyboard from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningCombobox.deselectOptionKeyboard%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningCombobox_deselectOptionKeyboard.js';
+import labelLoadingText from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningCombobox.loadingText%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningCombobox_loadingText.js';
+import labelPillCloseButtonAlternativeText from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningCombobox.pillCloseButtonAlternativeText%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningCombobox_pillCloseButtonAlternativeText.js';
 import { handleKeyDownOnInput } from '/1/module/esm/0/l/en-US/mi/lightning%2FbaseCombobox%23keyboard%2Fv%2F1_14_4-alpha/latest/lightning_baseCombobox_keyboard.js';
 import { BaseComboboxEvents } from '/1/module/esm/0/l/en-US/mi/lightning%2FbaseCombobox%23baseComboboxEvents%2Fv%2F1_14_4-alpha/latest/lightning_baseCombobox_baseComboboxEvents.js';
 import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_4-alpha/latest/lightning_utils.js';

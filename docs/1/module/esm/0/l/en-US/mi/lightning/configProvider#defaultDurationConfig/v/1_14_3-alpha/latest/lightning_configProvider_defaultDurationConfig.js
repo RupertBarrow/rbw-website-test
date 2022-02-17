@@ -7,8 +7,8 @@ import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FconfigProvider%23defau
 // Intl.RelativeTimeFormat is also only supported by a handful of browsers (as of 220):
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RelativeTimeFormat#Browser_compatibility
 // The following two labels will be used even on browsers that support Intl.RelativeTimeFormat
-import labelSecondsLater from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FDuration.secondsLater%2Fv%2F1_14_3-alpha/latest/@salesforce_label_Duration_secondsLater.js';
-import labelSecondsAgo from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FDuration.secondsAgo%2Fv%2F1_14_3-alpha/latest/@salesforce_label_Duration_secondsAgo.js';
+import labelSecondsLater from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FDuration.secondsLater%2Fv%2F1_14_3-alpha/latest/@salesforce_label_Duration_secondsLater.js';
+import labelSecondsAgo from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FDuration.secondsAgo%2Fv%2F1_14_3-alpha/latest/@salesforce_label_Duration_secondsAgo.js';
 import { formatLabel } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js'; // These labels will only be used as fallback in browsers that do not support Intl.RelativeTimeFormat
 
 const fallbackFutureLabel = 'in {0} {1}'; // e.g. in 1 minute

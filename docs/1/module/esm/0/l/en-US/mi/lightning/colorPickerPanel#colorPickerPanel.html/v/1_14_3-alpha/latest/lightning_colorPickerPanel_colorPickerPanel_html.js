@@ -1,6 +1,6 @@
 import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerPanel%23colorPickerPanel.css%2Fv%2F1_14_3-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerPanel%23colorPickerPanel.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerPanel%23colorPickerPanel.scoped.css?scoped=true%2Fv%2F1_14_3-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_scoped_css?scoped=true.js";
 
 import _lightningColorPickerCustom from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerCustom%2Fv%2F1_14_3-alpha/latest/lightning_colorPickerCustom.js";
 import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";

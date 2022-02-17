@@ -1,6 +1,6 @@
 import { assert } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_4-alpha/latest/lightning_utilsPrivate.js';
-import mediumDateFormat from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2FdateTime.mediumDateFormat%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_dateTime_mediumDateFormat.js';
-import mediumTimeFormat from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2FdateTime.mediumTimeFormat%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_dateTime_mediumTimeFormat.js';
+import mediumDateFormat from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2FdateTime.mediumDateFormat%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_dateTime_mediumDateFormat.js';
+import mediumTimeFormat from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2FdateTime.mediumTimeFormat%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_dateTime_mediumTimeFormat.js';
 import { isValidISODateTimeString, isValidISOTimeString, removeTimeZoneSuffix, STANDARD_DATE_FORMAT, TIME_SEPARATOR } from '/1/module/esm/0/l/en-US/mi/lightning%2Fiso8601Utils%2Fv%2F1_14_4-alpha/latest/lightning_iso8601Utils.js';
 import { formatDate, formatTime, formatDateTimeUTC, parseDateTimeUTC, parseDateTimeISO8601, syncUTCToWallTime, syncWallTimeToUTC, parseTime, parseDateTime, toOtherCalendar, fromOtherCalendar } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%23localizationService%2Fv%2F1_14_4-alpha/latest/lightning_internationalizationLibrary_localizationService.js';
 export function normalizeISODate(value, format) {

@@ -1,5 +1,5 @@
 import { assert } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
-import dir from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Fdir%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_dir.js';
+import dir from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Fdir%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_dir.js';
 export const POSITION_ATTR_NAME = 'data-position-id';
 
 class BrowserWindow {

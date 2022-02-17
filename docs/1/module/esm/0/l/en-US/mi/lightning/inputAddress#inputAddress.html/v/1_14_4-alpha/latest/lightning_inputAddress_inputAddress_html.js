@@ -1,6 +1,6 @@
 import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FinputAddress%23inputAddress.css%2Fv%2F1_14_4-alpha/latest/lightning_inputAddress_inputAddress_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FinputAddress%23inputAddress.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_4-alpha/latest/lightning_inputAddress_inputAddress_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FinputAddress%23inputAddress.scoped.css?scoped=true%2Fv%2F1_14_4-alpha/latest/lightning_inputAddress_inputAddress_scoped_css?scoped=true.js";
 
 import _lightningHelptext from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext%2Fv%2F1_14_4-alpha/latest/lightning_helptext.js";
 import _lightningLookupAddress from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress.js";

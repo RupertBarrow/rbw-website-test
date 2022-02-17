@@ -1,5 +1,5 @@
-import salesforceLocale from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Flocale%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_locale.js';
-import salesforceLanguage from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Flang%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_lang.js'; // Month and weekdays names should be based on the user's language setting.
+import salesforceLocale from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Flocale%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_locale.js';
+import salesforceLanguage from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Flang%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_lang.js'; // Month and weekdays names should be based on the user's language setting.
 // Falling back to the user's locale or the default 'en-us' in case the tag isn't supported by the browser's Intl implementation
 
 const FALLBACK_LOCALES = [salesforceLocale, 'en-us'];

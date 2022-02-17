@@ -1,5 +1,5 @@
-import groupingSeparator from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Fnumber.groupingSeparator%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_number_groupingSeparator.js';
-import decimalSeparator from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Fnumber.decimalSeparator%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_number_decimalSeparator.js';
+import groupingSeparator from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Fnumber.groupingSeparator%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_number_groupingSeparator.js';
+import decimalSeparator from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Fnumber.decimalSeparator%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_number_decimalSeparator.js';
 import { fromLocalizedDigits, toLocalizedDigits, numberFormat } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%2Fv%2F1_14_4-alpha/latest/lightning_internationalizationLibrary.js';
 import { isEmptyString } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_4-alpha/latest/lightning_inputUtils.js';
 const VALID_NUMBER_CHARACTERS_EXPRESSION = new RegExp( // eslint-disable-next-line no-useless-escape

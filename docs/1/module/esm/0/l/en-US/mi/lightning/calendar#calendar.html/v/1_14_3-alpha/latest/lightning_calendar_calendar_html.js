@@ -1,6 +1,6 @@
 import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcalendar%23calendar.css%2Fv%2F1_14_3-alpha/latest/lightning_calendar_calendar_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcalendar%23calendar.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_calendar_calendar_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcalendar%23calendar.scoped.css?scoped=true%2Fv%2F1_14_3-alpha/latest/lightning_calendar_calendar_scoped_css?scoped=true.js";
 
 import _lightningButtonIcon from "/1/module/esm/0/l/en-US/mi/lightning%2FbuttonIcon%2Fv%2F1_14_3-alpha/latest/lightning_buttonIcon.js";
 import _lightningSelect from "/1/module/esm/0/l/en-US/mi/lightning%2Fselect%2Fv%2F1_14_3-alpha/latest/lightning_select.js";

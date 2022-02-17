@@ -1,6 +1,6 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/my%2Fformulaire%23formulaire.html%2Fv%2F0_0_1/latest/my_formulaire_formulaire_html.js";
-import { postForm } from '/1/module/esm/0/l/en-US/mi/data%2FformService%2Fv%2F0_0_1/latest/data_formService.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/my/formulaire%23formulaire.html/v/0_0_1/latest/my_formulaire_formulaire_html.js";
+import { postForm } from '/1/module/esm/0/l/en-US/mi/data/formService/v/0_0_1/latest/data_formService.js';
 
 class InputNameRequired extends LightningElement {
   constructor(...args) {

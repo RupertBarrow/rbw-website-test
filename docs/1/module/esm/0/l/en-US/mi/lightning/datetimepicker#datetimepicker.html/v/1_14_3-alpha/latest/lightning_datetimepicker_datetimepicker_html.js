@@ -1,6 +1,6 @@
 import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fdatetimepicker%23datetimepicker.css%2Fv%2F1_14_3-alpha/latest/lightning_datetimepicker_datetimepicker_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fdatetimepicker%23datetimepicker.scoped.css%3Fscoped%3Dtrue%2Fv%2F1_14_3-alpha/latest/lightning_datetimepicker_datetimepicker_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fdatetimepicker%23datetimepicker.scoped.css?scoped=true%2Fv%2F1_14_3-alpha/latest/lightning_datetimepicker_datetimepicker_scoped_css?scoped=true.js";
 
 import _lightningHelptext from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext%2Fv%2F1_14_3-alpha/latest/lightning_helptext.js";
 import _lightningDatepicker from "/1/module/esm/0/l/en-US/mi/lightning%2Fdatepicker%2Fv%2F1_14_3-alpha/latest/lightning_datepicker.js";

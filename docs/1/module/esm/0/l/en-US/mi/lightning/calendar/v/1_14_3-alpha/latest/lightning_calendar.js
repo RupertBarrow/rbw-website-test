@@ -1,16 +1,16 @@
 import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
 import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Fcalendar%23calendar.html%2Fv%2F1_14_3-alpha/latest/lightning_calendar_calendar_html.js";
-import labelAriaLabelMonth from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningDateTimePicker.ariaLabelMonth%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_ariaLabelMonth.js';
-import labelNextMonth from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningDateTimePicker.nextMonth%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_nextMonth.js';
-import labelPreviousMonth from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningDateTimePicker.previousMonth%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_previousMonth.js';
-import labelToday from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningDateTimePicker.today%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_today.js';
-import labelYearSelector from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Flabel%2FLightningDateTimePicker.yearSelector%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_yearSelector.js';
+import labelAriaLabelMonth from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.ariaLabelMonth%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_ariaLabelMonth.js';
+import labelNextMonth from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.nextMonth%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_nextMonth.js';
+import labelPreviousMonth from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.previousMonth%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_previousMonth.js';
+import labelToday from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.today%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_today.js';
+import labelYearSelector from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.yearSelector%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_yearSelector.js';
 import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
 import { generateUniqueId } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_3-alpha/latest/lightning_inputUtils.js';
-import firstDayOfWeek from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2FfirstDayOfWeek%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_firstDayOfWeek.js';
+import firstDayOfWeek from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2FfirstDayOfWeek%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_firstDayOfWeek.js';
 import { handleKeyDownOnCalendar } from '/1/module/esm/0/l/en-US/mi/lightning%2Fcalendar%23keyboard%2Fv%2F1_14_3-alpha/latest/lightning_calendar_keyboard.js';
-import salesforceLanguage from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2Flang%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_lang.js';
-import showJapaneseCalendar from '/1/module/esm/0/l/en-US/mi/%40salesforce%2Fi18n%2FshowJapaneseCalendar%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_showJapaneseCalendar.js';
+import salesforceLanguage from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Flang%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_lang.js';
+import showJapaneseCalendar from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2FshowJapaneseCalendar%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_showJapaneseCalendar.js';
 import { toOtherCalendar, toLocalizedDigits, getToday, isBefore, isAfter, parseDateTime, getISODateString, getNameOfWeekdays, getMonthNames } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%2Fv%2F1_14_3-alpha/latest/lightning_internationalizationLibrary.js';
 import { STANDARD_DATE_FORMAT, TIME_SEPARATOR } from '/1/module/esm/0/l/en-US/mi/lightning%2Fiso8601Utils%2Fv%2F1_14_3-alpha/latest/lightning_iso8601Utils.js';
 const i18n = {
