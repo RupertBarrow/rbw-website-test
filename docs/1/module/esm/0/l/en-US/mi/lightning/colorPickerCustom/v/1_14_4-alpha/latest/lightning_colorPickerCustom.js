@@ -1,5 +1,5 @@
 import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerCustom%23colorPickerCustom.html%2Fv%2F1_14_4-alpha/latest/lightning_colorPickerCustom_colorPickerCustom_html.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerCustom#colorPickerCustom.html%2Fv%2F1_14_4-alpha/latest/lightning_colorPickerCustom_colorPickerCustom_html.js";
 import labelBInput from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.bInput%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_bInput.js';
 import labelBlueAbbr from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.blueAbbr%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_blueAbbr.js';
 import labelColorPickerInstructions from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.colorPickerInstructions%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_colorPickerInstructions.js';
@@ -13,7 +13,7 @@ import labelRedAbbr from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLight
 import formFactorPropertyName from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fclient%2FformFactor%2Fv%2F1_14_4-alpha/latest/@salesforce_client_formFactor.js';
 import { keyCodes } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_4-alpha/latest/lightning_utilsPrivate.js';
 import { generateUniqueId, getErrorMessage } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_4-alpha/latest/lightning_inputUtils.js';
-import { fullHexValue, hexToRgb, rgbToHex, rgbToHsl, rgbToPosition, rgbToHsv } from '/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerCustom%23colorUtil%2Fv%2F1_14_4-alpha/latest/lightning_colorPickerCustom_colorUtil.js';
+import { fullHexValue, hexToRgb, rgbToHex, rgbToHsl, rgbToPosition, rgbToHsv } from '/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerCustom#colorUtil%2Fv%2F1_14_4-alpha/latest/lightning_colorPickerCustom_colorUtil.js';
 const i18n = {
   bInput: labelBInput,
   blueAbbr: labelBlueAbbr,

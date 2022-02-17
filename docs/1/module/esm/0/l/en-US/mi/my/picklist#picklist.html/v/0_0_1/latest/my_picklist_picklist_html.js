@@ -1,6 +1,6 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/my/picklist%23picklist.css/v/0_0_1/latest/my_picklist_picklist_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/my/picklist#picklist.css/v/0_0_1/latest/my_picklist_picklist_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/my/picklist%23picklist.scoped.css?scoped=true/v/0_0_1/latest/my_picklist_picklist_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/my/picklist#picklist.scoped.css?scoped=true/v/0_0_1/latest/my_picklist_picklist_scoped_css?scoped=true.js";
 
 import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {

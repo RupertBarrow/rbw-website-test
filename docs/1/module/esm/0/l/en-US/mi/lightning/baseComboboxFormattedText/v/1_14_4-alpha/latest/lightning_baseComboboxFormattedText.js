@@ -1,5 +1,5 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxFormattedText%23baseComboboxFormattedText.html%2Fv%2F1_14_4-alpha/latest/lightning_baseComboboxFormattedText_baseComboboxFormattedText_html.js";
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/baseComboboxFormattedText#baseComboboxFormattedText.html/v/1_14_4-alpha/latest/lightning_baseComboboxFormattedText_baseComboboxFormattedText_html.js";
 
 class LightningBaseComboboxFormattedText extends LightningElement {
   constructor(...args) {

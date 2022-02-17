@@ -1,5 +1,5 @@
 import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext%23helptext.html%2Fv%2F1_14_3-alpha/latest/lightning_helptext_helptext_html.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext#helptext.html%2Fv%2F1_14_3-alpha/latest/lightning_helptext_helptext_html.js";
 import labelButtonAlternativeText from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningHelptext.buttonAlternativeText%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningHelptext_buttonAlternativeText.js';
 import { isValidName } from '/1/module/esm/0/l/en-US/mi/lightning%2FiconUtils%2Fv%2F1_14_3-alpha/latest/lightning_iconUtils.js';
 import { normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';

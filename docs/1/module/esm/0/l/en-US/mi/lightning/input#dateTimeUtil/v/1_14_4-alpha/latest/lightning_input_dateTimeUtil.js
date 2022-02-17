@@ -1,4 +1,4 @@
-import { normalizeISODate, normalizeISOTime, normalizeISODateTime, normalizeFormattedDateTime } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%2Fv%2F1_14_4-alpha/latest/lightning_internationalizationLibrary.js';
+import { normalizeISODate, normalizeISOTime, normalizeISODateTime, normalizeFormattedDateTime } from '/1/module/esm/0/l/en-US/mi/lightning/internationalizationLibrary/v/1_14_4-alpha/latest/lightning_internationalizationLibrary.js';
 export function normalizeDate(value) {
   return normalizeISODate(value).isoValue || '';
 } // Converts value to the user's timezone and formats it in a way that will be accepted by the input

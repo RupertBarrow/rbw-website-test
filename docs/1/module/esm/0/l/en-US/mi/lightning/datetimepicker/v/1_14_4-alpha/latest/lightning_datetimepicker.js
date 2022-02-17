@@ -1,14 +1,14 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Fdatetimepicker%23datetimepicker.html%2Fv%2F1_14_4-alpha/latest/lightning_datetimepicker_datetimepicker_html.js";
-import labelDate from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.dateLabel%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningDateTimePicker_dateLabel.js';
-import labelRangeOverflow from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.rangeOverflow%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningDateTimePicker_rangeOverflow.js';
-import labelRangeUnderflow from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.rangeUnderflow%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningDateTimePicker_rangeUnderflow.js';
-import labelTime from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.timeLabel%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningDateTimePicker_timeLabel.js';
-import { classSet, formatLabel } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_4-alpha/latest/lightning_utils.js';
-import { normalizeBoolean, normalizeAriaAttribute, synchronizeAttrs, getRealDOMId } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_4-alpha/latest/lightning_utilsPrivate.js';
-import { getCurrentTime, normalizeISODateTime, normalizeFormattedDateTime } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%2Fv%2F1_14_4-alpha/latest/lightning_internationalizationLibrary.js';
-import { TIME_SEPARATOR } from '/1/module/esm/0/l/en-US/mi/lightning%2Fiso8601Utils%2Fv%2F1_14_4-alpha/latest/lightning_iso8601Utils.js';
-import { generateUniqueId, InteractingState, normalizeVariant, VARIANT } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_4-alpha/latest/lightning_inputUtils.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/datetimepicker#datetimepicker.html/v/1_14_4-alpha/latest/lightning_datetimepicker_datetimepicker_html.js";
+import labelDate from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningDateTimePicker.dateLabel/v/1_14_4-alpha/latest/@salesforce_label_LightningDateTimePicker_dateLabel.js';
+import labelRangeOverflow from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningDateTimePicker.rangeOverflow/v/1_14_4-alpha/latest/@salesforce_label_LightningDateTimePicker_rangeOverflow.js';
+import labelRangeUnderflow from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningDateTimePicker.rangeUnderflow/v/1_14_4-alpha/latest/@salesforce_label_LightningDateTimePicker_rangeUnderflow.js';
+import labelTime from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningDateTimePicker.timeLabel/v/1_14_4-alpha/latest/@salesforce_label_LightningDateTimePicker_timeLabel.js';
+import { classSet, formatLabel } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_4-alpha/latest/lightning_utils.js';
+import { normalizeBoolean, normalizeAriaAttribute, synchronizeAttrs, getRealDOMId } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_4-alpha/latest/lightning_utilsPrivate.js';
+import { getCurrentTime, normalizeISODateTime, normalizeFormattedDateTime } from '/1/module/esm/0/l/en-US/mi/lightning/internationalizationLibrary/v/1_14_4-alpha/latest/lightning_internationalizationLibrary.js';
+import { TIME_SEPARATOR } from '/1/module/esm/0/l/en-US/mi/lightning/iso8601Utils/v/1_14_4-alpha/latest/lightning_iso8601Utils.js';
+import { generateUniqueId, InteractingState, normalizeVariant, VARIANT } from '/1/module/esm/0/l/en-US/mi/lightning/inputUtils/v/1_14_4-alpha/latest/lightning_inputUtils.js';
 const i18n = {
   date: labelDate,
   rangeOverflow: labelRangeOverflow,

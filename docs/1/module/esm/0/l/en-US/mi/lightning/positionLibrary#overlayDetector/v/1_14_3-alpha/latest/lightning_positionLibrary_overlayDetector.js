@@ -1,4 +1,4 @@
-import { isShadowRoot } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%23util%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary_util.js';
+import { isShadowRoot } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary#util/v/1_14_3-alpha/latest/lightning_positionLibrary_util.js';
 export const OVERLAY_TYPE = {
   NONE: 'none',
   MODAL: 'uiModal',

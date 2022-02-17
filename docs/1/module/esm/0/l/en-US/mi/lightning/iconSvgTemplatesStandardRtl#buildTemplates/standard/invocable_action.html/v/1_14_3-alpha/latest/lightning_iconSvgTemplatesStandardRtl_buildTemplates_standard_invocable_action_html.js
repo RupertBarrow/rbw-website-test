@@ -1,6 +1,6 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesStandardRtl%23buildTemplates%2Fstandard%2Finvocable_action.css%2Fv%2F1_14_3-alpha/latest/lightning_iconSvgTemplatesStandardRtl_buildTemplates_standard_invocable_action_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesStandardRtl#buildTemplates%2Fstandard%2Finvocable_action.css%2Fv%2F1_14_3-alpha/latest/lightning_iconSvgTemplatesStandardRtl_buildTemplates_standard_invocable_action_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesStandardRtl%23buildTemplates%2Fstandard%2Finvocable_action.scoped.css?scoped=true%2Fv%2F1_14_3-alpha/latest/lightning_iconSvgTemplatesStandardRtl_buildTemplates_standard_invocable_action_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesStandardRtl#buildTemplates%2Fstandard%2Finvocable_action.scoped.css?scoped=true%2Fv%2F1_14_3-alpha/latest/lightning_iconSvgTemplatesStandardRtl_buildTemplates_standard_invocable_action_scoped_css?scoped=true.js";
 
 import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {

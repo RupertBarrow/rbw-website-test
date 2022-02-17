@@ -1,4 +1,4 @@
-import localizationService from '/1/module/esm/0/l/en-US/mi/lightning%2FconfigProvider%23defaultLocalizationConfig%2Fv%2F1_14_4-alpha/latest/lightning_configProvider_defaultLocalizationConfig.js';
+import localizationService from '/1/module/esm/0/l/en-US/mi/lightning/configProvider#defaultLocalizationConfig/v/1_14_4-alpha/latest/lightning_configProvider_defaultLocalizationConfig.js';
 
 function getConfigFromAura($A) {
   return {

@@ -1,5 +1,5 @@
 import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerPanel%23colorPickerPanel.html%2Fv%2F1_14_4-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_html.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerPanel#colorPickerPanel.html%2Fv%2F1_14_4-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_html.js";
 import labelCancelButton from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.cancelButton%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_cancelButton.js';
 import labelCustomTab from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPickerPanel.customTab%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPickerPanel_customTab.js';
 import labelDefaultTab from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPickerPanel.defaultTab%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPickerPanel_defaultTab.js';

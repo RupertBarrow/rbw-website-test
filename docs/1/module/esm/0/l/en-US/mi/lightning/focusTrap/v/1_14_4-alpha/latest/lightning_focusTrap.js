@@ -1,5 +1,5 @@
 import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FfocusTrap%23focusTrap.html%2Fv%2F1_14_4-alpha/latest/lightning_focusTrap_focusTrap_html.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FfocusTrap#focusTrap.html%2Fv%2F1_14_4-alpha/latest/lightning_focusTrap_focusTrap_html.js";
 import { findAllTabbableElements } from '/1/module/esm/0/l/en-US/mi/lightning%2FfocusUtils%2Fv%2F1_14_4-alpha/latest/lightning_focusUtils.js';
 
 class FocusTrap extends LightningElement {

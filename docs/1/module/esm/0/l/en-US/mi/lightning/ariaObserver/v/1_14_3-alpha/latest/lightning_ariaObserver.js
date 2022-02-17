@@ -1,4 +1,4 @@
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FariaObserver%23ariaObserver.html%2Fv%2F1_14_3-alpha/latest/lightning_ariaObserver_ariaObserver_html.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FariaObserver#ariaObserver.html%2Fv%2F1_14_3-alpha/latest/lightning_ariaObserver_ariaObserver_html.js";
 import { registerComponent as _registerComponent } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
 import { guid, synchronizeAttrs, isNativeComponent } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
 const CONTENT_SEPARATOR = '\n';

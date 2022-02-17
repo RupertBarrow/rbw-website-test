@@ -1,13 +1,13 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FinputAddress%23inputAddress.css%2Fv%2F1_14_4-alpha/latest/lightning_inputAddress_inputAddress_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/inputAddress#inputAddress.css/v/1_14_4-alpha/latest/lightning_inputAddress_inputAddress_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FinputAddress%23inputAddress.scoped.css?scoped=true%2Fv%2F1_14_4-alpha/latest/lightning_inputAddress_inputAddress_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/inputAddress#inputAddress.scoped.css?scoped=true/v/1_14_4-alpha/latest/lightning_inputAddress_inputAddress_scoped_css?scoped=true.js";
 
-import _lightningHelptext from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext%2Fv%2F1_14_4-alpha/latest/lightning_helptext.js";
-import _lightningLookupAddress from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress.js";
-import _lightningInput from "/1/module/esm/0/l/en-US/mi/lightning%2Finput%2Fv%2F1_14_4-alpha/latest/lightning_input.js";
-import _lightningTextarea from "/1/module/esm/0/l/en-US/mi/lightning%2Ftextarea%2Fv%2F1_14_4-alpha/latest/lightning_textarea.js";
-import _lightningPicklist from "/1/module/esm/0/l/en-US/mi/lightning%2Fpicklist%2Fv%2F1_14_4-alpha/latest/lightning_picklist.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
+import _lightningHelptext from "/1/module/esm/0/l/en-US/mi/lightning/helptext/v/1_14_4-alpha/latest/lightning_helptext.js";
+import _lightningLookupAddress from "/1/module/esm/0/l/en-US/mi/lightning/lookupAddress/v/1_14_4-alpha/latest/lightning_lookupAddress.js";
+import _lightningInput from "/1/module/esm/0/l/en-US/mi/lightning/input/v/1_14_4-alpha/latest/lightning_input.js";
+import _lightningTextarea from "/1/module/esm/0/l/en-US/mi/lightning/textarea/v/1_14_4-alpha/latest/lightning_textarea.js";
+import _lightningPicklist from "/1/module/esm/0/l/en-US/mi/lightning/picklist/v/1_14_4-alpha/latest/lightning_picklist.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
 const stc0 = {
   classMap: {
     "slds-form-element": true

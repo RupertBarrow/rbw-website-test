@@ -1,6 +1,6 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon%23primitiveIcon.css/v/1_14_3-alpha/latest/lightning_primitiveIcon_primitiveIcon_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon#primitiveIcon.css/v/1_14_3-alpha/latest/lightning_primitiveIcon_primitiveIcon_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon%23primitiveIcon.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_primitiveIcon_primitiveIcon_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon#primitiveIcon.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_primitiveIcon_primitiveIcon_scoped_css?scoped=true.js";
 
 import {registerTemplate, sanitizeAttribute} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {

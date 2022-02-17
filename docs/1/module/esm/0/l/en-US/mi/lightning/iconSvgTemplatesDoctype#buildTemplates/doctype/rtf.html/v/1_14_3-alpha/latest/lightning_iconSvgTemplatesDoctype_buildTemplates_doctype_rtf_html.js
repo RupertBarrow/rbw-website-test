@@ -1,8 +1,8 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesDoctype%23buildTemplates%2Fdoctype%2Frtf.css%2Fv%2F1_14_3-alpha/latest/lightning_iconSvgTemplatesDoctype_buildTemplates_doctype_rtf_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesDoctype#buildTemplates/doctype/rtf.css/v/1_14_3-alpha/latest/lightning_iconSvgTemplatesDoctype_buildTemplates_doctype_rtf_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesDoctype%23buildTemplates%2Fdoctype%2Frtf.scoped.css?scoped=true%2Fv%2F1_14_3-alpha/latest/lightning_iconSvgTemplatesDoctype_buildTemplates_doctype_rtf_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesDoctype#buildTemplates/doctype/rtf.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_iconSvgTemplatesDoctype_buildTemplates_doctype_rtf_scoped_css?scoped=true.js";
 
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {h: api_element} = $api;
   return [api_element("svg", {

@@ -1,5 +1,5 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FconfigProvider%23defaultDurationConfig.html%2Fv%2F1_14_3-alpha/latest/lightning_configProvider_defaultDurationConfig_html.js";
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/configProvider#defaultDurationConfig.html/v/1_14_3-alpha/latest/lightning_configProvider_defaultDurationConfig_html.js";
 // inspired by the duration logic in moment.js (extremely simplified) https://github.com/moment/moment
 // Only using this in defaultConfig when we're outside of an aura context.
 // Reasons for this are because the Intl api currently doesn't match the existing text formats:
@@ -7,9 +7,9 @@ import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FconfigProvider%23defau
 // Intl.RelativeTimeFormat is also only supported by a handful of browsers (as of 220):
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RelativeTimeFormat#Browser_compatibility
 // The following two labels will be used even on browsers that support Intl.RelativeTimeFormat
-import labelSecondsLater from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FDuration.secondsLater%2Fv%2F1_14_3-alpha/latest/@salesforce_label_Duration_secondsLater.js';
-import labelSecondsAgo from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FDuration.secondsAgo%2Fv%2F1_14_3-alpha/latest/@salesforce_label_Duration_secondsAgo.js';
-import { formatLabel } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js'; // These labels will only be used as fallback in browsers that do not support Intl.RelativeTimeFormat
+import labelSecondsLater from '/1/module/esm/0/l/en-US/mi/@salesforce/label/Duration.secondsLater/v/1_14_3-alpha/latest/@salesforce_label_Duration_secondsLater.js';
+import labelSecondsAgo from '/1/module/esm/0/l/en-US/mi/@salesforce/label/Duration.secondsAgo/v/1_14_3-alpha/latest/@salesforce_label_Duration_secondsAgo.js';
+import { formatLabel } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_3-alpha/latest/lightning_utils.js'; // These labels will only be used as fallback in browsers that do not support Intl.RelativeTimeFormat
 
 const fallbackFutureLabel = 'in {0} {1}'; // e.g. in 1 minute
 

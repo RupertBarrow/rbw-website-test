@@ -1,5 +1,5 @@
-import { duration, displayDuration } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%23localizationService%2Fv%2F1_14_4-alpha/latest/lightning_internationalizationLibrary_localizationService.js';
-import { assert } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_4-alpha/latest/lightning_utilsPrivate.js';
+import { duration, displayDuration } from '/1/module/esm/0/l/en-US/mi/lightning/internationalizationLibrary#localizationService/v/1_14_4-alpha/latest/lightning_internationalizationLibrary_localizationService.js';
+import { assert } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_4-alpha/latest/lightning_utilsPrivate.js';
 const MINUTE_MILLISECONDS = 1000 * 60;
 export function relativeFormat() {
   return {

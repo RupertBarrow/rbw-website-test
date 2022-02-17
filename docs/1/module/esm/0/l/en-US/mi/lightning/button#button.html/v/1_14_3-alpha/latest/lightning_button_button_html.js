@@ -1,6 +1,6 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/button%23button.css/v/1_14_3-alpha/latest/lightning_button_button_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/button#button.css/v/1_14_3-alpha/latest/lightning_button_button_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/button%23button.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_button_button_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/button#button.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_button_button_scoped_css?scoped=true.js";
 
 import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon/v/1_14_3-alpha/latest/lightning_primitiveIcon.js";
 import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";

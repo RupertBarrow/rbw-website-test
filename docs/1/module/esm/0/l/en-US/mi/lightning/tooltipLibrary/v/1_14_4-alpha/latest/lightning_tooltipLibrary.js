@@ -1,4 +1,4 @@
-import { registerDecorators as _registerDecorators, createElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
+import { registerDecorators as _registerDecorators, createElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
 
 function ownKeys(object, enumerableOnly) { var keys = Object.keys(object); if (Object.getOwnPropertySymbols) { var symbols = Object.getOwnPropertySymbols(object); enumerableOnly && (symbols = symbols.filter(function (sym) { return Object.getOwnPropertyDescriptor(object, sym).enumerable; })), keys.push.apply(keys, symbols); } return keys; }
 
@@ -6,10 +6,10 @@ function _objectSpread(target) { for (var i = 1; i < arguments.length; i++) { va
 
 function _defineProperty(obj, key, value) { if (key in obj) { Object.defineProperty(obj, key, { value: value, enumerable: true, configurable: true, writable: true }); } else { obj[key] = value; } return obj; }
 
-import { AutoPosition, Direction } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%2Fv%2F1_14_4-alpha/latest/lightning_positionLibrary.js';
-import { assert, guid, normalizeAriaAttribute, normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_4-alpha/latest/lightning_utilsPrivate.js';
-import LightningPrimitiveBubble from '/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveBubble%2Fv%2F1_14_4-alpha/latest/lightning_primitiveBubble.js';
-export { Direction } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%2Fv%2F1_14_4-alpha/latest/lightning_positionLibrary.js';
+import { AutoPosition, Direction } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary/v/1_14_4-alpha/latest/lightning_positionLibrary.js';
+import { assert, guid, normalizeAriaAttribute, normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_4-alpha/latest/lightning_utilsPrivate.js';
+import LightningPrimitiveBubble from '/1/module/esm/0/l/en-US/mi/lightning/primitiveBubble/v/1_14_4-alpha/latest/lightning_primitiveBubble.js';
+export { Direction } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary/v/1_14_4-alpha/latest/lightning_positionLibrary.js';
 export const BUBBLE_PREFIX = `salesforce-lightning-tooltip-bubble`;
 const BUBBLE_ID = `${BUBBLE_PREFIX}_${guid()}`;
 

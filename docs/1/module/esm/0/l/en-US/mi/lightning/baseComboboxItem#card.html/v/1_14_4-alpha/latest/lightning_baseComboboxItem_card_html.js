@@ -1,10 +1,10 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxItem%23card.css%2Fv%2F1_14_4-alpha/latest/lightning_baseComboboxItem_card_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/baseComboboxItem#card.css/v/1_14_4-alpha/latest/lightning_baseComboboxItem_card_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxItem%23card.scoped.css?scoped=true%2Fv%2F1_14_4-alpha/latest/lightning_baseComboboxItem_card_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/baseComboboxItem#card.scoped.css?scoped=true/v/1_14_4-alpha/latest/lightning_baseComboboxItem_card_scoped_css?scoped=true.js";
 
-import _lightningIcon from "/1/module/esm/0/l/en-US/mi/lightning%2Ficon%2Fv%2F1_14_4-alpha/latest/lightning_icon.js";
-import _lightningBaseComboboxFormattedText from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxFormattedText%2Fv%2F1_14_4-alpha/latest/lightning_baseComboboxFormattedText.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
+import _lightningIcon from "/1/module/esm/0/l/en-US/mi/lightning/icon/v/1_14_4-alpha/latest/lightning_icon.js";
+import _lightningBaseComboboxFormattedText from "/1/module/esm/0/l/en-US/mi/lightning/baseComboboxFormattedText/v/1_14_4-alpha/latest/lightning_baseComboboxFormattedText.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
 const stc0 = {
   classMap: {
     "slds-media__figure": true,

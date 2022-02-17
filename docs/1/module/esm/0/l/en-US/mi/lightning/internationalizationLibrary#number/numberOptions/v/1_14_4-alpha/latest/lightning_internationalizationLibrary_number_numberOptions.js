@@ -2,7 +2,7 @@ import numberFormat from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Fnumber
 import percentFormat from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Fnumber.percentFormat%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_number_percentFormat.js';
 import currencyFormat from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Fnumber.currencyFormat%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_number_currencyFormat.js';
 import currency from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Fcurrency%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_currency.js';
-import { updateFractionPart, updateIntegerPart, updateCurrencySymbol, getCurrency } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%23number%2Futils%2Fv%2F1_14_4-alpha/latest/lightning_internationalizationLibrary_number_utils.js';
+import { updateFractionPart, updateIntegerPart, updateCurrencySymbol, getCurrency } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary#number%2Futils%2Fv%2F1_14_4-alpha/latest/lightning_internationalizationLibrary_number_utils.js';
 
 function NumberOptions(options) {
   this.options = options || {};

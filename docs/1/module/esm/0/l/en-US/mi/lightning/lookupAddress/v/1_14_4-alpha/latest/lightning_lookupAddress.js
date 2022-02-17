@@ -1,16 +1,16 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23lookupAddress.html%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_html.js";
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/lookupAddress#lookupAddress.html/v/1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_html.js";
 
 /* eslint-disable @lwc/lwc/no-api-reassignments */
-import lang from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2Flang%2Fv%2F1_14_4-alpha/latest/@salesforce_i18n_lang.js';
-import { toHighlightParts } from '/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23highlight%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_highlight.js';
-import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_4-alpha/latest/lightning_utils.js';
-import { normalizeVariant, VARIANT, debounce } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_4-alpha/latest/lightning_inputUtils.js';
-import { registerMessageHandler, unregisterMessageHandler, createMessage, postMessage } from '/1/module/esm/0/l/en-US/mi/lightning%2FmessageDispatcher%2Fv%2F1_14_4-alpha/latest/lightning_messageDispatcher.js';
-import { normalizeBoolean, synchronizeAttrs } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_4-alpha/latest/lightning_utilsPrivate.js';
-import { buildMapSourceUrl } from '/1/module/esm/0/l/en-US/mi/lightning%2FmapUtils%2Fv%2F1_14_4-alpha/latest/lightning_mapUtils.js';
-import { INTERNAL_GOOGLE_LOGO, POWERED_BY_GOOGLE } from '/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23googleLogo%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_googleLogo.js';
-import { getLocation } from '/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23location%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_location.js';
+import lang from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/lang/v/1_14_4-alpha/latest/@salesforce_i18n_lang.js';
+import { toHighlightParts } from '/1/module/esm/0/l/en-US/mi/lightning/lookupAddress#highlight/v/1_14_4-alpha/latest/lightning_lookupAddress_highlight.js';
+import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_4-alpha/latest/lightning_utils.js';
+import { normalizeVariant, VARIANT, debounce } from '/1/module/esm/0/l/en-US/mi/lightning/inputUtils/v/1_14_4-alpha/latest/lightning_inputUtils.js';
+import { registerMessageHandler, unregisterMessageHandler, createMessage, postMessage } from '/1/module/esm/0/l/en-US/mi/lightning/messageDispatcher/v/1_14_4-alpha/latest/lightning_messageDispatcher.js';
+import { normalizeBoolean, synchronizeAttrs } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_4-alpha/latest/lightning_utilsPrivate.js';
+import { buildMapSourceUrl } from '/1/module/esm/0/l/en-US/mi/lightning/mapUtils/v/1_14_4-alpha/latest/lightning_mapUtils.js';
+import { INTERNAL_GOOGLE_LOGO, POWERED_BY_GOOGLE } from '/1/module/esm/0/l/en-US/mi/lightning/lookupAddress#googleLogo/v/1_14_4-alpha/latest/lightning_lookupAddress_googleLogo.js';
+import { getLocation } from '/1/module/esm/0/l/en-US/mi/lightning/lookupAddress#location/v/1_14_4-alpha/latest/lightning_lookupAddress_location.js';
 const DEFAULT_TYPES = ['geocode'];
 const DEBOUNCE_PERIOD = 250;
 const EVENT_NAME = {

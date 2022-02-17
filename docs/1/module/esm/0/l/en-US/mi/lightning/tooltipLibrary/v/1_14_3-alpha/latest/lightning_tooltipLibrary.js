@@ -1,8 +1,8 @@
-import { registerDecorators as _registerDecorators, createElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import { AutoPosition, Direction } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary.js';
-import { assert, guid, normalizeAriaAttribute, normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
-import LightningPrimitiveBubble from '/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveBubble%2Fv%2F1_14_3-alpha/latest/lightning_primitiveBubble.js';
-export { Direction } from '/1/module/esm/0/l/en-US/mi/lightning%2FpositionLibrary%2Fv%2F1_14_3-alpha/latest/lightning_positionLibrary.js';
+import { registerDecorators as _registerDecorators, createElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+import { AutoPosition, Direction } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary/v/1_14_3-alpha/latest/lightning_positionLibrary.js';
+import { assert, guid, normalizeAriaAttribute, normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import LightningPrimitiveBubble from '/1/module/esm/0/l/en-US/mi/lightning/primitiveBubble/v/1_14_3-alpha/latest/lightning_primitiveBubble.js';
+export { Direction } from '/1/module/esm/0/l/en-US/mi/lightning/positionLibrary/v/1_14_3-alpha/latest/lightning_positionLibrary.js';
 export const BUBBLE_PREFIX = `salesforce-lightning-tooltip-bubble`;
 const BUBBLE_ID = `${BUBBLE_PREFIX}_${guid()}`;
 

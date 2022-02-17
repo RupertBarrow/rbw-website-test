@@ -1,5 +1,5 @@
 import { getPathPrefix, getToken } from '/1/module/esm/0/l/en-US/mi/lightning%2FconfigProvider%2Fv%2F1_14_3-alpha/latest/lightning_configProvider.js';
-import isIframeInEdge from '/1/module/esm/0/l/en-US/mi/lightning%2FiconUtils%23isIframeInEdge%2Fv%2F1_14_3-alpha/latest/lightning_iconUtils_isIframeInEdge.js';
+import isIframeInEdge from '/1/module/esm/0/l/en-US/mi/lightning%2FiconUtils#isIframeInEdge%2Fv%2F1_14_3-alpha/latest/lightning_iconUtils_isIframeInEdge.js';
 const validNameRe = /^([a-zA-Z]+):([a-zA-Z]\w*)$/;
 const underscoreRe = /_/g;
 let pathPrefix;
@@ -78,4 +78,4 @@ export const computeSldsClass = iconName => {
 
   return '';
 };
-export { polyfill } from '/1/module/esm/0/l/en-US/mi/lightning%2FiconUtils%23polyfill%2Fv%2F1_14_3-alpha/latest/lightning_iconUtils_polyfill.js';
+export { polyfill } from '/1/module/esm/0/l/en-US/mi/lightning%2FiconUtils#polyfill%2Fv%2F1_14_3-alpha/latest/lightning_iconUtils_polyfill.js';

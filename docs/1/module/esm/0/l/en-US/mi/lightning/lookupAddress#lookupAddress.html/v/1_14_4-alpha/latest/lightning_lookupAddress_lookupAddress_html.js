@@ -1,10 +1,10 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23lookupAddress.css%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/lookupAddress#lookupAddress.css/v/1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FlookupAddress%23lookupAddress.scoped.css?scoped=true%2Fv%2F1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/lookupAddress#lookupAddress.scoped.css?scoped=true/v/1_14_4-alpha/latest/lightning_lookupAddress_lookupAddress_scoped_css?scoped=true.js";
 
-import _lightningBaseCombobox from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseCombobox%2Fv%2F1_14_4-alpha/latest/lightning_baseCombobox.js";
-import _lightningPrimitiveIframe from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIframe%2Fv%2F1_14_4-alpha/latest/lightning_primitiveIframe.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
+import _lightningBaseCombobox from "/1/module/esm/0/l/en-US/mi/lightning/baseCombobox/v/1_14_4-alpha/latest/lightning_baseCombobox.js";
+import _lightningPrimitiveIframe from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIframe/v/1_14_4-alpha/latest/lightning_primitiveIframe.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
 const stc0 = {
   classMap: {
     "slds-form-element__control": true

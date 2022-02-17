@@ -1,11 +1,11 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcalendar%23calendar.css%2Fv%2F1_14_4-alpha/latest/lightning_calendar_calendar_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/calendar#calendar.css/v/1_14_4-alpha/latest/lightning_calendar_calendar_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcalendar%23calendar.scoped.css?scoped=true%2Fv%2F1_14_4-alpha/latest/lightning_calendar_calendar_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/calendar#calendar.scoped.css?scoped=true/v/1_14_4-alpha/latest/lightning_calendar_calendar_scoped_css?scoped=true.js";
 
-import _lightningButtonIcon from "/1/module/esm/0/l/en-US/mi/lightning%2FbuttonIcon%2Fv%2F1_14_4-alpha/latest/lightning_buttonIcon.js";
-import _lightningSelect from "/1/module/esm/0/l/en-US/mi/lightning%2Fselect%2Fv%2F1_14_4-alpha/latest/lightning_select.js";
-import _lightningFocusTrap from "/1/module/esm/0/l/en-US/mi/lightning%2FfocusTrap%2Fv%2F1_14_4-alpha/latest/lightning_focusTrap.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
+import _lightningButtonIcon from "/1/module/esm/0/l/en-US/mi/lightning/buttonIcon/v/1_14_4-alpha/latest/lightning_buttonIcon.js";
+import _lightningSelect from "/1/module/esm/0/l/en-US/mi/lightning/select/v/1_14_4-alpha/latest/lightning_select.js";
+import _lightningFocusTrap from "/1/module/esm/0/l/en-US/mi/lightning/focusTrap/v/1_14_4-alpha/latest/lightning_focusTrap.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
 const stc0 = {
   "slds-datepicker": true,
   "slds-dropdown": true,

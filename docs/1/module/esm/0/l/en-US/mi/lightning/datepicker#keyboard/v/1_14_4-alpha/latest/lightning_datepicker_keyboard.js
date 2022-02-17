@@ -1,4 +1,4 @@
-import { normalizeKeyValue } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_4-alpha/latest/lightning_utilsPrivate.js';
+import { normalizeKeyValue } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_4-alpha/latest/lightning_utilsPrivate.js';
 export function handleKeyDownOnDatePickerIcon(event, datepickerInterface) {
   switch (normalizeKeyValue(event.key)) {
     case 'Enter':

@@ -1,6 +1,6 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveFileDroppableZone%23primitiveFileDroppableZone.html%2Fv%2F1_14_4-alpha/latest/lightning_primitiveFileDroppableZone_primitiveFileDroppableZone_html.js";
-import { normalizeBoolean } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_4-alpha/latest/lightning_utilsPrivate.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/primitiveFileDroppableZone#primitiveFileDroppableZone.html/v/1_14_4-alpha/latest/lightning_primitiveFileDroppableZone_primitiveFileDroppableZone_html.js";
+import { normalizeBoolean } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_4-alpha/latest/lightning_utilsPrivate.js';
 
 class LightningPrimitiveFileDroppableZone extends LightningElement {
   get disabled() {

@@ -1,6 +1,6 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesActionRtl%23buildTemplates/action/update_status.css/v/1_14_3-alpha/latest/lightning_iconSvgTemplatesActionRtl_buildTemplates_action_update_status_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesActionRtl#buildTemplates/action/update_status.css/v/1_14_3-alpha/latest/lightning_iconSvgTemplatesActionRtl_buildTemplates_action_update_status_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesActionRtl%23buildTemplates/action/update_status.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_iconSvgTemplatesActionRtl_buildTemplates_action_update_status_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesActionRtl#buildTemplates/action/update_status.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_iconSvgTemplatesActionRtl_buildTemplates_action_update_status_scoped_css?scoped=true.js";
 
 import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {

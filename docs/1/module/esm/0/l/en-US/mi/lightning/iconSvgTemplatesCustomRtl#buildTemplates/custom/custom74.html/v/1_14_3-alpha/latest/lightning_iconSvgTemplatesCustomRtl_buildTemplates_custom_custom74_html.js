@@ -1,8 +1,8 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesCustomRtl%23buildTemplates%2Fcustom%2Fcustom74.css%2Fv%2F1_14_3-alpha/latest/lightning_iconSvgTemplatesCustomRtl_buildTemplates_custom_custom74_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesCustomRtl#buildTemplates/custom/custom74.css/v/1_14_3-alpha/latest/lightning_iconSvgTemplatesCustomRtl_buildTemplates_custom_custom74_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FiconSvgTemplatesCustomRtl%23buildTemplates%2Fcustom%2Fcustom74.scoped.css?scoped=true%2Fv%2F1_14_3-alpha/latest/lightning_iconSvgTemplatesCustomRtl_buildTemplates_custom_custom74_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/iconSvgTemplatesCustomRtl#buildTemplates/custom/custom74.scoped.css?scoped=true/v/1_14_3-alpha/latest/lightning_iconSvgTemplatesCustomRtl_buildTemplates_custom_custom74_scoped_css?scoped=true.js";
 
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
 function tmpl($api, $cmp, $slotset, $ctx) {
   const {h: api_element} = $api;
   return [api_element("svg", {

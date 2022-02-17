@@ -1,5 +1,5 @@
 import { load } from "/1/module/esm/0/l/en-US/mi/lwr/esmLoader/v/0_5_12/latest/lwr_esmLoader.js";
-import { updateStaleModule } from '/1/module/esm/0/l/en-US/mi/lwr/hmr%23util/swap/v/0_5_12/latest/lwr_hmr_util_swap.js';
+import { updateStaleModule } from '/1/module/esm/0/l/en-US/mi/lwr/hmr#util/swap/v/0_5_12/latest/lwr_hmr_util_swap.js';
 
 // This is a workaround until we don't change the way HMR works
 // The server will always return the same canonical "latest URL"
