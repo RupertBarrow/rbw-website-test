@@ -1,19 +1,19 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerCustom#colorPickerCustom.html%2Fv%2F1_14_4-alpha/latest/lightning_colorPickerCustom_colorPickerCustom_html.js";
-import labelBInput from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.bInput%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_bInput.js';
-import labelBlueAbbr from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.blueAbbr%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_blueAbbr.js';
-import labelColorPickerInstructions from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.colorPickerInstructions%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_colorPickerInstructions.js';
-import labelErrorMessage from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.errorMessage%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_errorMessage.js';
-import labelGInput from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.gInput%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_gInput.js';
-import labelGreenAbbr from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.greenAbbr%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_greenAbbr.js';
-import labelHexLabel from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.hexLabel%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_hexLabel.js';
-import labelHueInput from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.hueInput%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_hueInput.js';
-import labelRInput from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.rInput%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_rInput.js';
-import labelRedAbbr from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.redAbbr%2Fv%2F1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_redAbbr.js';
-import formFactorPropertyName from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fclient%2FformFactor%2Fv%2F1_14_4-alpha/latest/@salesforce_client_formFactor.js';
-import { keyCodes } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_4-alpha/latest/lightning_utilsPrivate.js';
-import { generateUniqueId, getErrorMessage } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_4-alpha/latest/lightning_inputUtils.js';
-import { fullHexValue, hexToRgb, rgbToHex, rgbToHsl, rgbToPosition, rgbToHsv } from '/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerCustom#colorUtil%2Fv%2F1_14_4-alpha/latest/lightning_colorPickerCustom_colorUtil.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/colorPickerCustom#colorPickerCustom.html/v/1_14_4-alpha/latest/lightning_colorPickerCustom_colorPickerCustom_html.js";
+import labelBInput from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.bInput/v/1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_bInput.js';
+import labelBlueAbbr from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.blueAbbr/v/1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_blueAbbr.js';
+import labelColorPickerInstructions from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.colorPickerInstructions/v/1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_colorPickerInstructions.js';
+import labelErrorMessage from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.errorMessage/v/1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_errorMessage.js';
+import labelGInput from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.gInput/v/1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_gInput.js';
+import labelGreenAbbr from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.greenAbbr/v/1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_greenAbbr.js';
+import labelHexLabel from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.hexLabel/v/1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_hexLabel.js';
+import labelHueInput from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.hueInput/v/1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_hueInput.js';
+import labelRInput from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.rInput/v/1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_rInput.js';
+import labelRedAbbr from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.redAbbr/v/1_14_4-alpha/latest/@salesforce_label_LightningColorPicker_redAbbr.js';
+import formFactorPropertyName from '/1/module/esm/0/l/en-US/mi/@salesforce/client/formFactor/v/1_14_4-alpha/latest/@salesforce_client_formFactor.js';
+import { keyCodes } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_4-alpha/latest/lightning_utilsPrivate.js';
+import { generateUniqueId, getErrorMessage } from '/1/module/esm/0/l/en-US/mi/lightning/inputUtils/v/1_14_4-alpha/latest/lightning_inputUtils.js';
+import { fullHexValue, hexToRgb, rgbToHex, rgbToHsl, rgbToPosition, rgbToHsv } from '/1/module/esm/0/l/en-US/mi/lightning/colorPickerCustom#colorUtil/v/1_14_4-alpha/latest/lightning_colorPickerCustom_colorUtil.js';
 const i18n = {
   bInput: labelBInput,
   blueAbbr: labelBlueAbbr,

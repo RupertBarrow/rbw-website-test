@@ -1,4 +1,4 @@
-import { getDefaultConfig } from '/1/module/esm/0/l/en-US/mi/lightning%2FconfigProvider#defaultConfig%2Fv%2F1_14_4-alpha/latest/lightning_configProvider_defaultConfig.js'; // Closure to hold the APIs if and when available
+import { getDefaultConfig } from '/1/module/esm/0/l/en-US/mi/lightning/configProvider#defaultConfig/v/1_14_4-alpha/latest/lightning_configProvider_defaultConfig.js'; // Closure to hold the APIs if and when available
 
 let configProvided = false;
 const {

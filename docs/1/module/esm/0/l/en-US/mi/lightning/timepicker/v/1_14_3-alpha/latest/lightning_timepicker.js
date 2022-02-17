@@ -1,19 +1,19 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Ftimepicker#timepicker.html%2Fv%2F1_14_3-alpha/latest/lightning_timepicker_timepicker_html.js";
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/timepicker#timepicker.html/v/1_14_3-alpha/latest/lightning_timepicker_timepicker_html.js";
 
 /* eslint-disable @lwc/lwc/no-api-reassignments */
-import labelInvalidDate from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.invalidDate%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_invalidDate.js';
-import labelRangeOverflow from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.rangeOverflow%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_rangeOverflow.js';
-import labelRangeUnderflow from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningDateTimePicker.rangeUnderflow%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_rangeUnderflow.js';
-import labelRequired from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningControl.required%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningControl_required.js';
-import shortTimeFormat from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2FdateTime.shortTimeFormat%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_dateTime_shortTimeFormat.js';
-import mediumTimeFormat from '/1/module/esm/0/l/en-US/mi/@salesforce%2Fi18n%2FdateTime.mediumTimeFormat%2Fv%2F1_14_3-alpha/latest/@salesforce_i18n_dateTime_mediumTimeFormat.js';
-import { getTimeToHighlight } from '/1/module/esm/0/l/en-US/mi/lightning%2Ftimepicker#utils%2Fv%2F1_14_3-alpha/latest/lightning_timepicker_utils.js';
-import { classSet, formatLabel } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
-import { isBefore, isAfter, formatTime, parseTime, getISOTimeString, normalizeISOTime, normalizeFormattedTime } from '/1/module/esm/0/l/en-US/mi/lightning%2FinternationalizationLibrary%2Fv%2F1_14_3-alpha/latest/lightning_internationalizationLibrary.js';
-import { removeTimeZoneSuffix } from '/1/module/esm/0/l/en-US/mi/lightning%2Fiso8601Utils%2Fv%2F1_14_3-alpha/latest/lightning_iso8601Utils.js';
-import { normalizeBoolean, synchronizeAttrs, normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
-import { normalizeVariant, VARIANT } from '/1/module/esm/0/l/en-US/mi/lightning%2FinputUtils%2Fv%2F1_14_3-alpha/latest/lightning_inputUtils.js';
+import labelInvalidDate from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningDateTimePicker.invalidDate/v/1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_invalidDate.js';
+import labelRangeOverflow from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningDateTimePicker.rangeOverflow/v/1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_rangeOverflow.js';
+import labelRangeUnderflow from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningDateTimePicker.rangeUnderflow/v/1_14_3-alpha/latest/@salesforce_label_LightningDateTimePicker_rangeUnderflow.js';
+import labelRequired from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningControl.required/v/1_14_3-alpha/latest/@salesforce_label_LightningControl_required.js';
+import shortTimeFormat from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/dateTime.shortTimeFormat/v/1_14_3-alpha/latest/@salesforce_i18n_dateTime_shortTimeFormat.js';
+import mediumTimeFormat from '/1/module/esm/0/l/en-US/mi/@salesforce/i18n/dateTime.mediumTimeFormat/v/1_14_3-alpha/latest/@salesforce_i18n_dateTime_mediumTimeFormat.js';
+import { getTimeToHighlight } from '/1/module/esm/0/l/en-US/mi/lightning/timepicker#utils/v/1_14_3-alpha/latest/lightning_timepicker_utils.js';
+import { classSet, formatLabel } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_3-alpha/latest/lightning_utils.js';
+import { isBefore, isAfter, formatTime, parseTime, getISOTimeString, normalizeISOTime, normalizeFormattedTime } from '/1/module/esm/0/l/en-US/mi/lightning/internationalizationLibrary/v/1_14_3-alpha/latest/lightning_internationalizationLibrary.js';
+import { removeTimeZoneSuffix } from '/1/module/esm/0/l/en-US/mi/lightning/iso8601Utils/v/1_14_3-alpha/latest/lightning_iso8601Utils.js';
+import { normalizeBoolean, synchronizeAttrs, normalizeString } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import { normalizeVariant, VARIANT } from '/1/module/esm/0/l/en-US/mi/lightning/inputUtils/v/1_14_3-alpha/latest/lightning_inputUtils.js';
 const i18n = {
   invalidDate: labelInvalidDate,
   rangeOverflow: labelRangeOverflow,

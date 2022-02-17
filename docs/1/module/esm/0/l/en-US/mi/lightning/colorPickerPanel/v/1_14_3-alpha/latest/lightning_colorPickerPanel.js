@@ -1,11 +1,11 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2FcolorPickerPanel#colorPickerPanel.html%2Fv%2F1_14_3-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_html.js";
-import labelCancelButton from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.cancelButton%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningColorPicker_cancelButton.js';
-import labelCustomTab from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPickerPanel.customTab%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningColorPickerPanel_customTab.js';
-import labelDefaultTab from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPickerPanel.defaultTab%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningColorPickerPanel_defaultTab.js';
-import labelDoneButton from '/1/module/esm/0/l/en-US/mi/@salesforce%2Flabel%2FLightningColorPicker.doneButton%2Fv%2F1_14_3-alpha/latest/@salesforce_label_LightningColorPicker_doneButton.js';
-import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
-import { keyCodes } from '/1/module/esm/0/l/en-US/mi/lightning%2FutilsPrivate%2Fv%2F1_14_3-alpha/latest/lightning_utilsPrivate.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/colorPickerPanel#colorPickerPanel.html/v/1_14_3-alpha/latest/lightning_colorPickerPanel_colorPickerPanel_html.js";
+import labelCancelButton from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.cancelButton/v/1_14_3-alpha/latest/@salesforce_label_LightningColorPicker_cancelButton.js';
+import labelCustomTab from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPickerPanel.customTab/v/1_14_3-alpha/latest/@salesforce_label_LightningColorPickerPanel_customTab.js';
+import labelDefaultTab from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPickerPanel.defaultTab/v/1_14_3-alpha/latest/@salesforce_label_LightningColorPickerPanel_defaultTab.js';
+import labelDoneButton from '/1/module/esm/0/l/en-US/mi/@salesforce/label/LightningColorPicker.doneButton/v/1_14_3-alpha/latest/@salesforce_label_LightningColorPicker_doneButton.js';
+import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_3-alpha/latest/lightning_utils.js';
+import { keyCodes } from '/1/module/esm/0/l/en-US/mi/lightning/utilsPrivate/v/1_14_3-alpha/latest/lightning_utilsPrivate.js';
 const i18n = {
   cancelButton: labelCancelButton,
   customTab: labelCustomTab,

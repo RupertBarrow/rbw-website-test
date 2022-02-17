@@ -1,10 +1,10 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcombobox#combobox.css%2Fv%2F1_14_4-alpha/latest/lightning_combobox_combobox_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/combobox#combobox.css/v/1_14_4-alpha/latest/lightning_combobox_combobox_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fcombobox#combobox.scoped.css?scoped=true%2Fv%2F1_14_4-alpha/latest/lightning_combobox_combobox_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/combobox#combobox.scoped.css?scoped=true/v/1_14_4-alpha/latest/lightning_combobox_combobox_scoped_css?scoped=true.js";
 
-import _lightningHelptext from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext%2Fv%2F1_14_4-alpha/latest/lightning_helptext.js";
-import _lightningBaseCombobox from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseCombobox%2Fv%2F1_14_4-alpha/latest/lightning_baseCombobox.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
+import _lightningHelptext from "/1/module/esm/0/l/en-US/mi/lightning/helptext/v/1_14_4-alpha/latest/lightning_helptext.js";
+import _lightningBaseCombobox from "/1/module/esm/0/l/en-US/mi/lightning/baseCombobox/v/1_14_4-alpha/latest/lightning_baseCombobox.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
 const stc0 = {
   "slds-required": true
 };

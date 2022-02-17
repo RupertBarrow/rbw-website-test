@@ -1,9 +1,9 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext#helptext.css%2Fv%2F1_14_4-alpha/latest/lightning_helptext_helptext_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/helptext#helptext.css/v/1_14_4-alpha/latest/lightning_helptext_helptext_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2Fhelptext#helptext.scoped.css?scoped=true%2Fv%2F1_14_4-alpha/latest/lightning_helptext_helptext_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/helptext#helptext.scoped.css?scoped=true/v/1_14_4-alpha/latest/lightning_helptext_helptext_scoped_css?scoped=true.js";
 
-import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIcon%2Fv%2F1_14_4-alpha/latest/lightning_primitiveIcon.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
+import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon/v/1_14_4-alpha/latest/lightning_primitiveIcon.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
 const stc0 = {
   classMap: {
     "slds-form-element__icon": true

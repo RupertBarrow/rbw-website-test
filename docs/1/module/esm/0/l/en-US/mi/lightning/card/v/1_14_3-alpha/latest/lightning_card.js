@@ -1,7 +1,7 @@
-import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_7_4/latest/lwc.js";
-import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning%2Fcard#card.html%2Fv%2F1_14_3-alpha/latest/lightning_card_card_html.js";
-import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning%2Futils%2Fv%2F1_14_3-alpha/latest/lightning_utils.js';
-import { isNarrow, isBase, isHeadingLevelValid, DEFAULT_HEADING_LEVEL } from '/1/module/esm/0/l/en-US/mi/lightning%2Fcard#utils%2Fv%2F1_14_3-alpha/latest/lightning_card_utils.js';
+import { registerDecorators as _registerDecorators, registerComponent as _registerComponent, LightningElement } from "/1/module/esm/0/l/en-US/mi/lwc/v/2_7_4/latest/lwc.js";
+import _tmpl from "/1/module/esm/0/l/en-US/mi/lightning/card#card.html/v/1_14_3-alpha/latest/lightning_card_card_html.js";
+import { classSet } from '/1/module/esm/0/l/en-US/mi/lightning/utils/v/1_14_3-alpha/latest/lightning_utils.js';
+import { isNarrow, isBase, isHeadingLevelValid, DEFAULT_HEADING_LEVEL } from '/1/module/esm/0/l/en-US/mi/lightning/card#utils/v/1_14_3-alpha/latest/lightning_card_utils.js';
 /**
  * Cards apply a container around a related grouping of information.
  * @slot title Placeholder for the card title, which can be represented by a header or h1 element.

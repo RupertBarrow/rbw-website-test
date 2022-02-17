@@ -1,11 +1,11 @@
-import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseCombobox#baseCombobox.css%2Fv%2F1_14_4-alpha/latest/lightning_baseCombobox_baseCombobox_css.js";
+import _implicitStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/baseCombobox#baseCombobox.css/v/1_14_4-alpha/latest/lightning_baseCombobox_baseCombobox_css.js";
 
-import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseCombobox#baseCombobox.scoped.css?scoped=true%2Fv%2F1_14_4-alpha/latest/lightning_baseCombobox_baseCombobox_scoped_css?scoped=true.js";
+import _implicitScopedStylesheets from "/1/module/esm/0/l/en-US/mi/lightning/baseCombobox#baseCombobox.scoped.css?scoped=true/v/1_14_4-alpha/latest/lightning_baseCombobox_baseCombobox_scoped_css?scoped=true.js";
 
-import _lightningIcon from "/1/module/esm/0/l/en-US/mi/lightning%2Ficon%2Fv%2F1_14_4-alpha/latest/lightning_icon.js";
-import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning%2FprimitiveIcon%2Fv%2F1_14_4-alpha/latest/lightning_primitiveIcon.js";
-import _lightningBaseComboboxItem from "/1/module/esm/0/l/en-US/mi/lightning%2FbaseComboboxItem%2Fv%2F1_14_4-alpha/latest/lightning_baseComboboxItem.js";
-import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc%2Fv%2F2_9_0/latest/lwc.js";
+import _lightningIcon from "/1/module/esm/0/l/en-US/mi/lightning/icon/v/1_14_4-alpha/latest/lightning_icon.js";
+import _lightningPrimitiveIcon from "/1/module/esm/0/l/en-US/mi/lightning/primitiveIcon/v/1_14_4-alpha/latest/lightning_primitiveIcon.js";
+import _lightningBaseComboboxItem from "/1/module/esm/0/l/en-US/mi/lightning/baseComboboxItem/v/1_14_4-alpha/latest/lightning_baseComboboxItem.js";
+import {registerTemplate} from "/1/module/esm/0/l/en-US/mi/lwc/v/2_9_0/latest/lwc.js";
 const stc0 = {
   "role": "none"
 };
